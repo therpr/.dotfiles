@@ -1,0 +1,40 @@
+imap jj <Esc>
+au InsertLeave * hi Cursor guibg=red
+au InsertEnter * hi Cursor guibg=green
+
+set timeoutlen=200
+set relativenumber
+set showmode
+
+nnoremap d "_d
+vnoremap d "_d
+
+nnoremap dd "_dd
+vnoremap dd "_dd
+
+nnoremap x "_x
+vnoremap x "_x
+
+nnoremap Y y$
+nnoremap _ ggY``P
+
+inoremap <Left>  <NOP>
+inoremap <Right> <NOP>
+inoremap <Up>    <NOP>
+inoremap <Down>  <NOP>
+
+vmap > >gv
+vmap < <gv
+
+:map \f :action ReformatCode<CR>
+:map \r :action Refactorings.QuickListPopupAction<CR>
+:map <space>o :action StepOver<CR>
+:map <space>O :action StepOut<CR>
+:map <space>i :action StepInto<CR>
+:map <space>fi :action ForceStepInto<CR>
+:map <space>R :action RunToCursor<CR>
+:map <space>s :action ToggleLineBreakpoint<CR>
+:map <C-f> :action FindModal<CR> 
+:map <C-r> :action Replace<CR>
+:map <C-n> :action EditorToggleShowLineNumbers<CR>
+:map <C-g> :action GotoAction<CR>

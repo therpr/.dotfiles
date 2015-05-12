@@ -1,0 +1,20 @@
+# DEV
+alias phpunit='vendor/bin/phpunit'
+alias phpspec='vendor/bin/phpspec'
+alias vaprobash='curl -L http://bit.ly/vaprobash > Vagrantfile'
+alias gs='git status'
+alias gc='git commit'
+alias gpush='git push'
+alias gpull='git pull'
+alias cdm="cd ~/Code/Metricso"
+
+# OS
+#
+alias reloadconf=". ~/.zshrc"
+alias l="ls -la"       # List in long format, include dotfiles
+alias ld="ls -ld */"   # List in long format, only directories
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+# Recursively remove .DS_Store files
+alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
