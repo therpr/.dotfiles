@@ -23,6 +23,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'Chiel92/vim-autoformat'
 Plugin 'tpope/vim-surround'
 Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'moll/vim-node'
 
 " Auto brackets closing
 Plugin 'Raimondi/delimitMate'

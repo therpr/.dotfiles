@@ -1,0 +1,1 @@
+/Users/switkowski/.dotfiles/.tmux	30
