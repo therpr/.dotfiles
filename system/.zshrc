@@ -1,6 +1,6 @@
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
-export PATH=/usr/local/bin:$PATH
+
 source ~/.aliases
 source ~/.functions
 source ~/.exports
@@ -85,3 +85,4 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/Cellar/vim/7.4.488/bin:$PATH

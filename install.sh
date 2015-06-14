@@ -14,3 +14,4 @@ ln -sfv "$DOTFILES_DIR/system/.aliases" ~
 ln -sfv "$DOTFILES_DIR/system/.exports" ~
 ln -sfv "$DOTFILES_DIR/system/.functions" ~
 
+ln -sfv "$DOTFILES_DIR/.tmux" ~
