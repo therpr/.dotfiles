@@ -7,7 +7,7 @@ export DOTFILES_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 ln -sfv "$DOTFILES_DIR/vim/.vimrc" ~
 ln -sfv "$DOTFILES_DIR/idea/.ideavimrc" ~
-ln -sfv "$DOTFILES_DIR/tmux/.tmux.conf" ~
+ln -sfv "$DOTFILES_DIR/.tmux/.tmux.conf" ~
 ln -sfv "$DOTFILES_DIR/git/.gitconfig" ~
 ln -sfv "$DOTFILES_DIR/system/.zshrc" ~
 ln -sfv "$DOTFILES_DIR/system/.aliases" ~
