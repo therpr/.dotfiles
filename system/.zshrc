@@ -86,3 +86,5 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=/usr/local/bin:$PATH
 export PATH=/usr/local/Cellar/vim/7.4.488/bin:$PATH
+
+$(boot2docker shellinit)
