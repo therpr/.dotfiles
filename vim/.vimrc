@@ -23,6 +23,8 @@ Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'majutsushi/tagbar'
 Plugin 'ervandew/supertab'
+Plugin 'danro/rename.vim'
+Plugin 'yegappan/mru'
 "HTML
 Plugin 'docunext/closetag.vim'
 
@@ -38,6 +40,10 @@ Plugin 'moll/vim-node'
 
 "PHP Plugins
 Plugin 'shawncplus/phpcomplete.vim'
+Plugin 'arnaud-lb/vim-php-namespace'
+
+"Ctags
+Plugin 'ludovicchabant/vim-gutentags'
 
 " Auto brackets closing
 Plugin 'Raimondi/delimitMate'
@@ -128,6 +134,11 @@ call NERDTreeHighlightFile('coffee', 'Red', 'none', 'red', '#151515')
 call NERDTreeHighlightFile('js', 'Red', 'none', '#ffa500', '#151515')
 call NERDTreeHighlightFile('php', 'Magenta', 'none', '#ff00ff', '#151515')
 
+" Mappings
+imap <C-c> <CR><Esc>O
+imap jj <Esc>
+let mapleader=","
+
 "Tagbar
 nmap <F8> :TagbarToggle<CR>
 
@@ -137,6 +148,10 @@ let g:user_emmet_leader_key='<C-E>'
 "Omnicomplete
 set omnifunc=syntaxcomplete#Complete
 let g:SuperTabDefaultCompletionType = "context"
+
+"Php namespace
+inoremap <Leader>u <C-O>:call PhpInsertUse()<CR>
+noremap <Leader>u :call PhpInsertUse()<CR>
 
 set noswapfile
 set number
@@ -153,7 +168,4 @@ let g:airline_theme='hybrid'
 let g:airline_powerline_fonts = 1
 let g:airline_theme='luna'
 
-" Mappings
-imap <C-c> <CR><Esc>O
-imap jj <Esc>
-let mapleader=","
+

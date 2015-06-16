@@ -12,6 +12,11 @@ alias vup="vagrant up"
 alias vssh="vagrant ssh"
 alias vreload="vagrant reload"
 
+# Docker
+alias dc="docker-compose"
+alias b2d="sudo . ~/boot2docker.sh && reloadconf"
+alias dssh="docker_ssh"
+
 # OS
 #
 alias reloadconf=". ~/.zshrc"

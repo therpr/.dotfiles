@@ -1,4 +1,9 @@
 # Create a new directory and enter it
 function mk() {
-  mkdir -p "$@" && cd "$@"
+    mkdir -p "$@" && cd "$@"
+}
+
+# Docker functions
+function docker_ssh(){
+    docker exec -it "$1" bash
 }
