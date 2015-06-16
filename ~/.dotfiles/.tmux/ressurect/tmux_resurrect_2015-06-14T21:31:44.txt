@@ -1,0 +1,8 @@
+pane	dotfiles	1	:~/code/docker	0	: 	0	:/Users/switkowski/code/docker	0	zsh	:
+pane	dotfiles	1	:~/code/docker	0	: 	1	:/Users/switkowski/code/Metricso/supervisor-manager	1	zsh	:
+pane	dotfiles	2	:~/.tmux	1	:*	0	:/Users/switkowski/.dotfiles/.tmux	1	zsh	:
+pane	dotfiles	3	:~/.dotfiles	0	:-	0	:/Users/switkowski/.dotfiles	1	zsh	:
+window	dotfiles	1	0	: 	17e3,143x39,0,0{71x39,0,0,0,71x39,72,0,2}
+window	dotfiles	2	1	:*	cf01,143x39,0,0,4
+window	dotfiles	3	0	:-	cf02,143x39,0,0,5
+state	dotfiles	dotfiles

@@ -1,0 +1,10 @@
+pane	2	1	:~	1	:*	0	:/Users/switkowski	1	zsh	:
+pane	dotfiles	1	:~/.dotfiles	0	: 	0	:/Users/switkowski/.dotfiles	1	zsh	:
+pane	dotfiles	2	:vim	1	:*	0	:/Users/switkowski/code/Metricso/metricso/app/Metricso/Localization	1	vim	:vim /Users/switkowski/.tmux/sheet.markdown
+vim /Users/switkowski/code/docker/learnyounode/program6
+pane	dotfiles	3	:vim	0	:-	0	:/Users/switkowski/.dotfiles	1	vim	:vim
+window	2	1	1	:*	e7cf,191x58,0,0,20
+window	dotfiles	1	0	: 	67b6,143x39,0,0,17
+window	dotfiles	2	1	:*	cf01,143x39,0,0,4
+window	dotfiles	3	0	:-	67b7,143x39,0,0,18
+state	dotfiles	2

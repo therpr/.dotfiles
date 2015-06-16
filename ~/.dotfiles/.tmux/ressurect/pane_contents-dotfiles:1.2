@@ -1,0 +1,448 @@
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/ca.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/cert.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/key.pem
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m cd ~/code/docker/test/metricso 
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ls
+[1;36mapp[0;39m                docker-compose.yml
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip metricso_db_1
+172.17.0.168
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc kill
+Killing metricso_app_1...
+Killing metricso_redis_1...
+Killing metricso_db_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up                         
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_db_1
+root@bce2e241236c:/# mysql -uroot -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 1
+Server version: 5.5.44 MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use mysql;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> select host,user from user;
++-------------+------------------+
+| host        | user             |
++-------------+------------------+
+| 127.0.0.1   | root             |
+| 172.17.42.% | root             |
+| ::1         | root             |
+| localhost   | debian-sys-maint |
+| localhost   | metricso.dev     |
+| localhost   | root             |
++-------------+------------------+
+6 rows in set (0.00 sec)
+
+mysql> exit
+Bye
+root@bce2e241236c:/# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ds
+zsh: command not found: ds
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m gs
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        [31mmodified:   app/Dockerfile
+[39m        [31mmodified:   app/config/000-default.conf
+[39m        [31mdeleted:    app/config/my.cnf
+[39m        [31mmodified:   docker-compose.yml
+
+[39mUntracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        [31mapp/data/
+[39m        [31mapp/src/
+
+[39mno changes added to commit (use "git add" and/or "git commit -a")
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ga .
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'metricso/app/config/my.cnf' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+^C
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ga -A
+^C
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m cd ..
+[30;44m ~/code/docker/test [34;43m[30m  master ● [33;49m[39m ga -A
+[30;44m ~/code/docker/test [34;43m[30m  master ✚ [33;49m[39m gs
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        [32mmodified:   metricso/app/Dockerfile
+[39m        [32mmodified:   metricso/app/config/000-default.conf
+[39m        [32mdeleted:    metricso/app/config/my.cnf
+[39m        [32mnew file:   metricso/app/data/mysql/127adecd6551.pid
+[39m        [32mnew file:   metricso/app/data/mysql/192@002e168@002e22@002e11/db.opt
+[39m        [32mnew file:   metricso/app/data/mysql/3ca201894b6c.pid
+[39m        [32mnew file:   metricso/app/data/mysql/520551eb7e00.pid
+[39m        [32mnew file:   metricso/app/data/mysql/5560ac3394dc.pid
+[39m        [32mnew file:   metricso/app/data/mysql/86abab0ac12d.pid
+[39m        [32mnew file:   metricso/app/data/mysql/bce2e241236c.pid
+[39m        [32mnew file:   metricso/app/data/mysql/c371629016e1.pid
+[39m        [32mnew file:   metricso/app/data/mysql/c6aaac1ff3de.pid
+[39m        [32mnew file:   metricso/app/data/mysql/debian-5.5.flag
+[39m        [32mnew file:   metricso/app/data/mysql/ib_logfile0
+[39m        [32mnew file:   metricso/app/data/mysql/ib_logfile1
+[39m        [32mnew file:   metricso/app/data/mysql/ibdata1
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/areas_categories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/areas_subcategories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/cities.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/countries.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/coupons.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/customer.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/db.opt
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_activity_time.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_activity_time_precent.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_user_areas.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_user_keywords.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_user_likes.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_user_places.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_user_websites.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/fb_users.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/likes_categories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/localizations.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/location_province.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/migrations.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/notifications.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/plans.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/projects.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/segmentation.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/sources.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/subscribers.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/subscriptions.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/transaction.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/user_invitations.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/users.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_app/users_temp.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/api_error.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/app_client.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/app_error.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/app_user.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/areas_categories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/areas_fb_page_details.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/areas_subcategories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/country.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/db.opt
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_api_call_limits.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed_comment.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed_like.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed_place.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed_tag.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_feed_to.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page_category.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page_feed.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page_feed_comment.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page_feed_like.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_page_site.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_user.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_user_extend.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/fb_user_like.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/propel_migration.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/upd2_category_to_interest.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/upd2_fb_page_categories.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/upd2_interests.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/upd_error.frm
+[39m        [32mnew file:   metricso/app/data/mysql/metricso_dev_fb/user_page_update_status.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/columns_priv.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/columns_priv.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/columns_priv.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/db.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/db.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/db.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/event.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/event.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/event.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/func.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/func.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/func.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/general_log.CSM
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/general_log.CSV
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/general_log.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_category.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_category.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_category.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_keyword.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_keyword.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_keyword.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_relation.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_relation.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_relation.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_topic.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_topic.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/help_topic.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/host.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/host.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/host.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/ndb_binlog_index.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/ndb_binlog_index.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/ndb_binlog_index.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/plugin.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/plugin.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/plugin.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proc.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proc.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proc.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/procs_priv.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/procs_priv.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/procs_priv.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proxies_priv.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proxies_priv.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/proxies_priv.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/servers.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/servers.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/servers.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/slow_log.CSM
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/slow_log.CSV
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/slow_log.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/tables_priv.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/tables_priv.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/tables_priv.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_leap_second.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_leap_second.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_leap_second.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_name.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_name.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_name.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition_type.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition_type.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/time_zone_transition_type.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/user.MYD
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/user.MYI
+[39m        [32mnew file:   metricso/app/data/mysql/mysql/user.frm
+[39m        [32mnew file:   metricso/app/data/mysql/mysql_upgrade_info
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/cond_instances.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/db.opt
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_current.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_history.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_history_long.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_summary_by_instance.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_summary_by_thread_by_event_name.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/events_waits_summary_global_by_event_name.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/file_instances.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/file_summary_by_event_name.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/file_summary_by_instance.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/mutex_instances.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/performance_timers.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/rwlock_instances.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/setup_consumers.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/setup_instruments.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/setup_timers.frm
+[39m        [32mnew file:   metricso/app/data/mysql/performance_schema/threads.frm
+[39m        [32mnew file:   metricso/app/src/index.html
+[39m        [32mmodified:   metricso/docker-compose.yml
+
+[30;44m ~/code/docker/test [34;43m[30m  master ✚ [33;49m[39m gc -m "Working mysql for metricso containers"
+[master f33dd90] Working mysql for metricso containers
+ 170 files changed, 92 insertions(+), 11 deletions(-)
+ delete mode 100644 metricso/app/config/my.cnf
+ create mode 100644 metricso/app/data/mysql/127adecd6551.pid
+ create mode 100755 metricso/app/data/mysql/192@002e168@002e22@002e11/db.opt
+ create mode 100644 metricso/app/data/mysql/3ca201894b6c.pid
+ create mode 100644 metricso/app/data/mysql/520551eb7e00.pid
+ create mode 100644 metricso/app/data/mysql/5560ac3394dc.pid
+ create mode 100644 metricso/app/data/mysql/86abab0ac12d.pid
+ create mode 100644 metricso/app/data/mysql/bce2e241236c.pid
+ create mode 100644 metricso/app/data/mysql/c371629016e1.pid
+ create mode 100644 metricso/app/data/mysql/c6aaac1ff3de.pid
+ create mode 100755 metricso/app/data/mysql/debian-5.5.flag
+ create mode 100755 metricso/app/data/mysql/ib_logfile0
+ create mode 100755 metricso/app/data/mysql/ib_logfile1
+ create mode 100755 metricso/app/data/mysql/ibdata1
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/areas_categories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/areas_subcategories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/cities.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/countries.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/coupons.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/customer.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/db.opt
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_activity_time.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_activity_time_precent.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_user_areas.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_user_keywords.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_user_likes.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_user_places.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_user_websites.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/fb_users.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/likes_categories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/localizations.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/location_province.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/migrations.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/notifications.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/plans.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/projects.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/segmentation.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/sources.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/subscribers.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/subscriptions.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/transaction.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/user_invitations.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/users.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_app/users_temp.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/api_error.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/app_client.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/app_error.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/app_user.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/areas_categories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/areas_fb_page_details.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/areas_subcategories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/country.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/db.opt
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_api_call_limits.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed_comment.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed_like.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed_place.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed_tag.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_feed_to.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page_category.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page_feed.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page_feed_comment.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page_feed_like.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_page_site.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_user.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_user_extend.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/fb_user_like.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/propel_migration.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/upd2_category_to_interest.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/upd2_fb_page_categories.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/upd2_interests.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/upd_error.frm
+ create mode 100755 metricso/app/data/mysql/metricso_dev_fb/user_page_update_status.frm
+ create mode 100755 metricso/app/data/mysql/mysql/columns_priv.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/columns_priv.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/columns_priv.frm
+ create mode 100755 metricso/app/data/mysql/mysql/db.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/db.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/db.frm
+ create mode 100755 metricso/app/data/mysql/mysql/event.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/event.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/event.frm
+ create mode 100755 metricso/app/data/mysql/mysql/func.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/func.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/func.frm
+ create mode 100755 metricso/app/data/mysql/mysql/general_log.CSM
+ create mode 100755 metricso/app/data/mysql/mysql/general_log.CSV
+ create mode 100755 metricso/app/data/mysql/mysql/general_log.frm
+ create mode 100755 metricso/app/data/mysql/mysql/help_category.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/help_category.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/help_category.frm
+ create mode 100755 metricso/app/data/mysql/mysql/help_keyword.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/help_keyword.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/help_keyword.frm
+ create mode 100755 metricso/app/data/mysql/mysql/help_relation.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/help_relation.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/help_relation.frm
+ create mode 100755 metricso/app/data/mysql/mysql/help_topic.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/help_topic.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/help_topic.frm
+ create mode 100755 metricso/app/data/mysql/mysql/host.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/host.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/host.frm
+ create mode 100755 metricso/app/data/mysql/mysql/ndb_binlog_index.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/ndb_binlog_index.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/ndb_binlog_index.frm
+ create mode 100755 metricso/app/data/mysql/mysql/plugin.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/plugin.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/plugin.frm
+ create mode 100755 metricso/app/data/mysql/mysql/proc.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/proc.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/proc.frm
+ create mode 100755 metricso/app/data/mysql/mysql/procs_priv.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/procs_priv.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/procs_priv.frm
+ create mode 100755 metricso/app/data/mysql/mysql/proxies_priv.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/proxies_priv.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/proxies_priv.frm
+ create mode 100755 metricso/app/data/mysql/mysql/servers.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/servers.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/servers.frm
+ create mode 100755 metricso/app/data/mysql/mysql/slow_log.CSM
+ create mode 100755 metricso/app/data/mysql/mysql/slow_log.CSV
+ create mode 100755 metricso/app/data/mysql/mysql/slow_log.frm
+ create mode 100755 metricso/app/data/mysql/mysql/tables_priv.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/tables_priv.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/tables_priv.frm
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone.frm
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_leap_second.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_leap_second.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_leap_second.frm
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_name.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_name.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_name.frm
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition.frm
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition_type.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition_type.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/time_zone_transition_type.frm
+ create mode 100755 metricso/app/data/mysql/mysql/user.MYD
+ create mode 100755 metricso/app/data/mysql/mysql/user.MYI
+ create mode 100755 metricso/app/data/mysql/mysql/user.frm
+ create mode 100755 metricso/app/data/mysql/mysql_upgrade_info
+ create mode 100755 metricso/app/data/mysql/performance_schema/cond_instances.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/db.opt
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_current.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_history.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_history_long.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_summary_by_instance.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_summary_by_thread_by_event_name.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/events_waits_summary_global_by_event_name.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/file_instances.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/file_summary_by_event_name.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/file_summary_by_instance.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/mutex_instances.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/performance_timers.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/rwlock_instances.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/setup_consumers.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/setup_instruments.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/setup_timers.frm
+ create mode 100755 metricso/app/data/mysql/performance_schema/threads.frm
+ create mode 100644 metricso/app/src/index.html
+[30;44m ~/code/docker/test [34;42m[30m  master [32;49m[39m gpush -u origin master
+Counting objects: 158, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (145/145), done.
+Writing objects: 100% (151/151), 33.92 MiB | 455.00 KiB/s, done.
+Total 151 (delta 114), reused 0 (delta 0)
+To git@bitbucket.org:switkowsky/docker-test.git
+   37f9029..f33dd90  master -> master
+Branch master set up to track remote branch master from origin.
+[30;44m ~/code/docker/test [34;42m[30m  master [32;49m[39m 

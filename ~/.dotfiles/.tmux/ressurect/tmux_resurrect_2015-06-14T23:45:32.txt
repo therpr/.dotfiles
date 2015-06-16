@@ -1,0 +1,8 @@
+pane	dotfiles	1	:~/.dotfiles	0	: 	0	:/Users/switkowski/.dotfiles	1	zsh	:
+pane	dotfiles	2	:vim	0	:-	0	:/Users/switkowski/code/Metricso/metricso	1	vim	:vim /Users/switkowski/.tmux/sheet.markdown
+vim
+pane	dotfiles	3	:vim	1	:*	0	:/Users/switkowski/.dotfiles	1	vim	:vim
+window	dotfiles	1	0	: 	67b6,143x39,0,0,17
+window	dotfiles	2	0	:-	cf01,143x39,0,0,4
+window	dotfiles	3	1	:*	67b7,143x39,0,0,18
+state	dotfiles	dotfiles

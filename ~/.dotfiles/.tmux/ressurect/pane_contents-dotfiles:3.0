@@ -1,0 +1,329 @@
+                                                                                                                                               
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ls
+[1;36mfonts[0;39m      [1;36mgit[0;39m        [1;36midea[0;39m       [31minstall.sh[39m [1;36mnpm[0;39m        [1;36msystem[0;39m     [1;36mvim[0;39m        [1;36m~
+[0;30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m cd ~
+[30;44m ~ [34;49m[39m cd code
+[30;44m ~/code [34;49m[39m ls
+[1;36mGit[0;39m               [1;36mMetricso[0;39m          [1;36mWork[0;39m              [1;36mconfig[0;39m            [1;36mdocker[0;39m            elasticsearch.txt [1;36mpersonal
+[0;30;44m ~/code [34;49m[39m cd personal 
+[30;44m ~/code/personal [34;49m[39m ls
+[1;36mOld[0;39m           Vagrantfile   composer.json [1;36mlaravel[0;39m       [1;36mtmoApi[0;39m        [1;36mtmoclan.com
+[0;30;44m ~/code/personal [34;49m[39m cd ..
+[30;44m ~/code [34;49m[39m cd docker 
+[30;44m ~/code/docker [34;49m[39m ls
+[1;36mlearnyounode
+[0;30;44m ~/code/docker [34;49m[39m cd learnyounode 
+[30;44m ~/code/docker/learnyounode [34;49m[39m ls
+program.js  program2.js program3.js program4.js program5.js [1;36mprogram6
+[0;30;44m ~/code/docker/learnyounode [34;49m[39m cd progra
+cd: no such file or directory: progra
+[40m [31m✘ [30;44m ~/code/docker/learnyounode [34;49m[39m cd program6 
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m ls
+module.js   program6.js
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m vim module.js 
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m ls
+module.js   program6.js
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m cd ..
+[30;44m ~/code/docker/learnyounode [34;49m[39m ls
+program.js  program2.js program3.js program4.js program5.js [1;36mprogram6
+[0;30;44m ~/code/docker/learnyounode [34;49m[39m cd ..
+[30;44m ~/code/docker [34;49m[39m ls
+[1;36mlearnyounode
+[0;30;44m ~/code/docker [34;49m[39m cd learnyounode 
+[30;44m ~/code/docker/learnyounode [34;49m[39m ls
+program.js  program2.js program3.js program4.js program5.js [1;36mprogram6
+[0;30;44m ~/code/docker/learnyounode [34;49m[39m cd program6 
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m ls
+module.js   program6.js
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m node install
+
+module.js:340
+    throw err;
+          ^
+Error: Cannot find module '/Users/switkowski/code/docker/learnyounode/program6/install'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:906:3
+[40m [31m✘ [30;44m ~/code/docker/learnyounode/program6 [34;49m[39m npm install
+[37;40mnpm[39;49m [31;40mERR![39;49m [35minstall[39m Couldn't read dependencies
+[37;40mnpm[39;49m [31;40mERR![39;49m Darwin 14.1.0
+[37;40mnpm[39;49m [31;40mERR![39;49m [35margv[39m "node" "/usr/local/bin/npm" "install"
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mnode[39m v0.10.33
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mnpm [39m v2.1.11
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mpath[39m /Users/switkowski/code/docker/learnyounode/program6/package.json
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mcode[39m ENOPACKAGEJSON
+[37;40mnpm[39;49m [31;40mERR![39;49m [35merrno[39m 34
+
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mpackage.json[39m ENOENT, open '/Users/switkowski/code/docker/learnyounode/program6/package.json'
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mpackage.json[39m This is most likely not a problem with npm itself.
+[37;40mnpm[39;49m [31;40mERR![39;49m [35mpackage.json[39m npm can't find a package.json file in your current directory.
+
+[37;40mnpm[39;49m [31;40mERR![39;49m Please include the following file with any support request:
+[37;40mnpm[39;49m [31;40mERR![39;49m     /Users/switkowski/code/docker/learnyounode/program6/npm-debug.log
+[40m [31m✘ [30;44m ~/code/docker/learnyounode/program6 [34;49m[39m ls
+module.js     npm-debug.log program6.js
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m rm npm-debug.log 
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m vim module.js 
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m vim module.js 
+
+
+Press ENTER or type command to continue
+[30;44m ~/code/docker/learnyounode/program6 [34;49m[39m cd ~/.dot
+cd: no such file or directory: /Users/switkowski/.dot
+[40m [31m✘ [30;44m ~/code/docker/learnyounode/program6 [34;49m[39m cd ~/.dotfiles 
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ls
+[1;36mfonts[0;39m      [1;36mgit[0;39m        [1;36midea[0;39m       [31minstall.sh[39m [1;36mnpm[0;39m        [1;36msystem[0;39m     [1;36mvim[0;39m        [1;36m~
+[0;30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m gs
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        [31mmodified:   .tmux/.sheet.markdown.swp
+[39m        [31mmodified:   .tmux/.tmux.conf
+[39m        [31mmodified:   vim/.vimrc
+
+[39mUntracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        [31m.tmux/plugins/tmux-continuum/
+[39m        [31m.tmux/plugins/tmux-resurrect/
+[39m        [31m.tmux/plugins/tmux-sensible/
+[39m        [31m.tmux/plugins/tmux-sidebar/
+[39m        [31m.tmux/plugins/tmux-yank/
+[39m        [31m.tmux/sidebar/
+[39m        [31m.tmux/yellow
+[39m        [31m.tmux/yellowset
+[39m        [31mvim/.vimrc.swp
+[39m        [31m~/
+
+[39mno changes added to commit (use "git add" and/or "git commit -a")
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ga .
+[30;44m ~/.dotfiles [34;43m[30m  master ✚ [33;49m[39m gc -m "Tmux plugins"
+[master 3ceea22] Tmux plugins
+ 25 files changed, 2725 insertions(+), 84 deletions(-)
+ rewrite .tmux/.tmux.conf (71%)
+ create mode 160000 .tmux/plugins/tmux-continuum
+ create mode 160000 .tmux/plugins/tmux-resurrect
+ create mode 160000 .tmux/plugins/tmux-sensible
+ create mode 160000 .tmux/plugins/tmux-sidebar
+ create mode 160000 .tmux/plugins/tmux-yank
+ create mode 100644 .tmux/sidebar/directory_widths.txt
+ create mode 100644 .tmux/yellow
+ create mode 100644 .tmux/yellowset
+ create mode 100644 vim/.vimrc.swp
+ create mode 120000 ~/.dotfiles/.tmux/ressurect/last
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:1.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:1.1
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:2.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:2.1
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:3.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:13:54.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:20:50.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:21:44.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:31:44.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:45:13.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:00:13.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:15:14.txt
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m git commit -a
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+[40m [31m✘ [30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m git rebase -i HEAD~1
+error: Your local changes to the following files would be overwritten by checkout:
+        ~/.dotfiles/.tmux/ressurect/last
+        ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:3.0
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+could not detach HEAD
+[40m [31m✘ [30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m gs
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        [31mmodified:   ~/.dotfiles/.tmux/ressurect/last
+[39m        [31mmodified:   ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:3.0
+
+[39mUntracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        [31m~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:30:16.txt
+
+[39mno changes added to commit (use "git add" and/or "git commit -a")
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m git rebase -i HEAD~1
+Cannot rebase: You have unstaged changes.
+Please commit or stash them.
+[40m [31m✘ [30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ga .
+[30;44m ~/.dotfiles [34;43m[30m  master ✚ [33;49m[39m gc -m "Tmux"
+[master a969c24] Tmux
+ 3 files changed, 95 insertions(+), 21 deletions(-)
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:30:16.txt
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m gs
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m git rebase -i HEAD~2
+[detached HEAD 9d8b964] Tmux plugins
+ 25 files changed, 2725 insertions(+), 84 deletions(-)
+ rewrite .tmux/.tmux.conf (71%)
+ create mode 160000 .tmux/plugins/tmux-continuum
+ create mode 160000 .tmux/plugins/tmux-resurrect
+ create mode 160000 .tmux/plugins/tmux-sensible
+ create mode 160000 .tmux/plugins/tmux-sidebar
+ create mode 160000 .tmux/plugins/tmux-yank
+ create mode 100644 .tmux/sidebar/directory_widths.txt
+ create mode 100644 .tmux/yellow
+ create mode 100644 .tmux/yellowset
+ create mode 100644 vim/.vimrc.swp
+ create mode 120000 ~/.dotfiles/.tmux/ressurect/last
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:1.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:1.1
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:2.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:2.1
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/pane_contents-dotfiles:3.0
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:13:54.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:20:50.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:21:44.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:31:44.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T21:45:13.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:00:13.txt
+ create mode 100644 ~/.dotfiles/.tmux/ressurect/tmux_resurrect_2015-06-14T22:15:14.txt
+Successfully rebased and updated refs/heads/master.
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m gpush
+Counting objects: 44, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (26/26), done.
+Writing objects: 100% (37/37), 31.08 KiB | 0 bytes/s, done.
+Total 37 (delta 13), reused 0 (delta 0)
+To https://github.com/therpr/.dotfiles.git
+   e69f242..7cd20de  master -> master
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m gs
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working directory clean
+[30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m ls
+[1;36mfonts[0;39m      [1;36mgit[0;39m        [1;36midea[0;39m       [31minstall.sh[39m [1;36mnpm[0;39m        [1;36msystem[0;39m     [1;36mvim[0;39m        [1;36m~
+[0;30;44m ~/.dotfiles [34;42m[30m  master [32;49m[39m cd ~/.vim
+[30;44m ~/.vim [34;49m[39m ls
+[1;36mbundle
+[0;30;44m ~/.vim [34;49m[39m git clone git://github.com/dmonllao/vim-IDE.git .
+fatal: destination path '.' already exists and is not an empty directory.
+[40m [31m✘ [30;44m ~/.vim [34;49m[39m git clone git://github.com/dmonllao/vim-IDE.git . -f
+error: unknown switch `f'
+usage: git clone [options] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recursive           initialize submodules in the clone
+    --recurse-submodules  initialize submodules in the clone
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --single-branch       clone only one branch, HEAD or --branch
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+
+[40m [31m✘ [30;44m ~/.vim [34;49m[39m ls
+[1;36mbundle
+[0;30;44m ~/.vim [34;49m[39m mk vimide
+[30;44m ~/.vim/vimide [34;49m[39m git clone git://github.com/dmonllao/vim-IDE.git . -f
+error: unknown switch `f'
+usage: git clone [options] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recursive           initialize submodules in the clone
+    --recurse-submodules  initialize submodules in the clone
+    --template <template-directory>
+                          directory from which templates will be used
+[38;5;107;48;5;233m" Press ? for help[38;5;188m             [38;5;242;48;5;16m|[38;5;59;48;5;233m  6 [38;5;244m# Create a new directory and enter it[38;5;188m                                                                                                                      
+                               [38;5;242;48;5;16m|[38;5;59;48;5;233m  5 [38;5;188mfunction mk() {                                                                                                                                            
+[38;5;186m.. (up a dir)[38;5;188m                  [38;5;242;48;5;16m|[38;5;59;48;5;233m  4 [38;5;188m    mkdir -p [38;5;107m"$@"[38;5;188m && cd [38;5;107m"$@"[38;5;188m                                                                                                                               
+[38;5;103m</code/docker/test/metricso/[38;5;188m   [38;5;242;48;5;16m|[38;5;59;48;5;233m  3 [38;5;188m}                                                                                                                                                          
+[1;38;5;71m▾[0;38;5;188m [38;5;167m[[38;5;107m✗[38;5;167m][38;5;186mapp[38;5;183m/[38;5;188m                      [38;5;242;48;5;16m|[38;5;59;48;5;233m  2 [38;5;188m                                                                                                                                                           
+  [1;38;5;71m▾[0;38;5;188m [38;5;186mconf[38;5;183m/[38;5;188m                      [38;5;242;48;5;16m|[38;5;59;48;5;233m  1 [38;5;244m# Docker functions[38;5;188m                                                                                                                                         
+    [1;38;5;71m▸[0;38;5;188m [38;5;186mapache2[38;5;183m/[38;5;188m                 [38;5;242;48;5;16m|[38;5;188;48;5;233m7   function docker_ssh(){                                                                                                                                     
+  [1;38;5;71m▾[0;38;5;188m [38;5;167m[[38;5;107m✗[38;5;167m][38;5;186mconfig[38;5;183m/[38;5;188m                 [38;5;242;48;5;16m|[38;5;59;48;5;233m  1 [38;5;188m    docker exec -it [38;5;107m"$1"[38;5;188m bash                                                                                                                              
+    [1;38;5;71m▸[0;38;5;188m [38;5;186msupervisor[38;5;183m/[38;5;188m              [38;5;242;48;5;16m|[38;5;59;48;5;233m  2 [38;5;188m}                                                                                                                                                          
+[93m      [✹]000-default.conf[38;5;188m      [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[38;5;188m      my.cnf                   [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[93m      php.ini[38;5;188m                  [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[38;5;188m  [1;38;5;71m▸[0;38;5;188m [38;5;167m[[38;5;107m✗[38;5;167m][38;5;186mdata[38;5;183m/[38;5;188m                   [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[38;5;188;48;5;234m  [1;38;5;71m▸[0;38;5;188m [38;5;167m[[38;5;107m✗[38;5;167m][38;5;186msrc[38;5;183m/[38;5;188m                    [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[38;5;188m    [38;5;167m[[38;5;107m✹[38;5;167m][38;5;188mDockerfile              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[93m  [✹]docker-compose.yml[38;5;188m        [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+~                              [38;5;242;48;5;16m|[38;5;240;48;5;233m~                                                                                                                                                              
+[38;5;59;48;5;23m NERD [38;5;23m[38;5;59m                       [38;5;231;48;5;235m [48;5;36m [1mNORMAL[0m [38;5;36;48;5;29m[38;5;29;48;5;23m[38;5;231m ~/.functions                                                                                                 [38;5;23m[38;5;231m conf [38;5;29m[38;5;231;48;5;29m utf-8[unix] [38;5;36m[38;5;231;48;5;36m  77% [1m   7[0m:  1  
+[38;5;188;48;5;233m"~/.functions" 9L, 160C                                                                                                                                                                       

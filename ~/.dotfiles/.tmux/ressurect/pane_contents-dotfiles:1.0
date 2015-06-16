@@ -1,0 +1,1198 @@
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/ca.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/cert.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/key.pem
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m vim ~/Library/Preferences/           
+2BUA8C4S2C.com.agilebits.onepassword4-helper.plist                            
+[1;31mByHost[0;39m/                                                                       
+[1;31mIdeaIC13[0;39m/                                                                     
+[1;31mIdeaIC14[0;39m/                                                                     
+[1;31mMacromedia[0;39m/                                                                   
+MobileMeAccounts.plist                                                        
+[1;31mParallels[0;39m/                                                                    
+QNapi.plist                                                                   
+QuickTime\ Preferences                                                        
+[1;31mRubyMine60[0;39m/                                                                   
+[1;31mUkelele[0;39m/                                                                      
+[1;31mWebIde70[0;39m/                                                                     
+[1;31mWebIde80[0;39m/                                                                     
+[1;31mWebStorm9[0;39m/                                                                    
+callservicesd.plist                                                           
+com.agilebits.onepassword4.plist                                              
+com.apple.ATS.plist                                                           
+com.apple.ActivityMonitor.plist                                               
+com.apple.AddressBook.plist                                                   
+com.apple.AppleMultitouchTrackpad.plist                                       
+com.apple.Automator.LSSharedFileList.plist                                    
+com.apple.Automator.plist                                                     
+com.apple.BezelServices.plist                                                 
+com.apple.BluetoothFileExchange.plist                                         
+com.apple.CallHistorySyncHelper.plist                                         
+com.apple.CaptiveNetworkAssistant.plist                                       
+com.apple.CharacterPicker.plist                                               
+com.apple.ColorSyncUtility.LSSharedFileList.plist                             
+com.apple.ColorSyncUtility.plist                                              
+com.apple.CoreGraphics.plist                                                  
+com.apple.DiskUtility.plist                                                   
+com.apple.FileStatsAgent.plist                                                
+com.apple.FolderActions.plist                                                 
+com.apple.GEO.plist                                                           
+com.apple.HIToolbox.plist                                                     
+com.apple.InputMethodKit.UserDictionary.plist                                 
+[1;31mcom.apple.JapaneseAnalysis[0;39m/                                                   
+[1;31mcom.apple.LaunchServices[0;39m/                                                     
+com.apple.LaunchServices.QuarantineEventsV2                                   
+com.apple.LaunchServices.plist                                                
+com.apple.MassStorageCamera.plist                                             
+com.apple.MessagesHistoryImporter.plist                                       
+com.apple.NotesMigratorService.plist                                          
+com.apple.PTPCamera.plist                                                     
+com.apple.PhotoBooth.plist                                                    
+com.apple.Preview.LSSharedFileList.plist                                      
+com.apple.ProblemReporter.plist                                               
+com.apple.PubSubAgent.plist                                                   
+com.apple.QuickLookDaemon.plist                                               
+com.apple.QuickTimePlayerX.LSSharedFileList.plist                             
+com.apple.Safari.Extensions.plist                                             
+com.apple.Safari.plist                                                        
+com.apple.ScriptEditor2.plist                                                 
+com.apple.ServicesMenu.Services.plist                                         
+com.apple.SetupAssistant.plist                                                
+com.apple.Spotlight.plist                                                     
+com.apple.SystemProfiler.plist                                                
+com.apple.TelephonyUtilities.plist                                            
+com.apple.Terminal.plist                                                      
+com.apple.TextEdit.LSSharedFileList.plist                                     
+com.apple.UserAccountUpdater.plist                                            
+[1;31mcom.apple.VoiceOver4[0;39m/                                                         
+com.apple.VoiceOver4.local.plist                                              
+com.apple.accountsd.plist                                                     
+com.apple.appstore.plist                                                      
+com.apple.archiveutility.plist                                                
+com.apple.assistant.plist                                                     
+com.apple.audio.InfoHelper.plist                                              
+com.apple.bird.plist                                                          
+com.apple.bookstoreagent.plist                                                
+com.apple.bootcampassistant.plist                                             
+com.apple.calculateframework.plist                                            
+com.apple.cloudpaird.plist                                                    
+com.apple.commerce.knownclients.plist                                         
+com.apple.commerce.plist                                                      
+com.apple.coreservices.uiagent.plist                                          
+com.apple.dashboard.client.plist                                              
+com.apple.dashboard.plist                                                     
+com.apple.diskimages.fsck                                                     
+com.apple.dock.plist                                                          
+com.apple.driver.AppleBluetoothMultitouch.mouse.plist                         
+com.apple.driver.AppleBluetoothMultitouch.trackpad.plist                      
+com.apple.driver.AppleHIDMouse.plist                                          
+com.apple.dt.Xcode.plist                                                      
+com.apple.facetime.bag.plist                                                  
+com.apple.facetime.plist                                                      
+com.apple.finder.plist                                                        
+com.apple.frameworks.diskimages.diuiagent.plist                               
+com.apple.gamed.plist                                                         
+com.apple.help.plist                                                          
+com.apple.helpd.plist                                                         
+com.apple.helpviewer.plist                                                    
+com.apple.iApps.plist                                                         
+com.apple.iCal.plist                                                          
+com.apple.iChat.AIM.plist                                                     
+com.apple.iChat.Jabber.plist                                                  
+com.apple.iChat.LSSharedFileList.plist                                        
+com.apple.iChat.StatusMessages.plist                                          
+com.apple.iChat.Yahoo.plist                                                   
+com.apple.iChat.plist                                                         
+com.apple.iLifeAssetManagement.crash.plist                                    
+com.apple.iLifePhotoStream.importstatus.plist                                 
+com.apple.iLifePhotoStream.plist                                              
+com.apple.iMovieApp.plist                                                     
+com.apple.iPhoto.LSSharedFileList.plist                                       
+com.apple.iPhoto.plist                                                        
+com.apple.iPod.plist                                                          
+com.apple.iTunes.eq.plist                                                     
+com.apple.iTunes.plist                                                        
+com.apple.iTunesHelper.plist                                                  
+com.apple.iWork.Keynote.LSSharedFileList.plist                                
+com.apple.iWork.Pages.LSSharedFileList.plist                                  
+com.apple.ibtool.plist                                                        
+com.apple.icbaccountsd.plist                                                  
+com.apple.icloud.fmfd.plist                                                   
+com.apple.identityservicesd.plist                                             
+com.apple.ids.deviceproperties.plist                                          
+com.apple.ids.service.com.apple.ess.plist                                     
+com.apple.ids.service.com.apple.madrid.plist                                  
+com.apple.ids.service.com.apple.private.ac.plist                              
+com.apple.ids.service.com.apple.private.alloy.callhistorysync.plist           
+com.apple.ids.service.com.apple.private.alloy.continuity.activity.plist       
+com.apple.ids.service.com.apple.private.alloy.continuity.activity.public.plist
+com.apple.ids.service.com.apple.private.alloy.continuity.auth.plist           
+com.apple.ids.service.com.apple.private.alloy.continuity.encryption.plist     
+com.apple.ids.service.com.apple.private.alloy.continuity.tethering.plist      
+com.apple.ids.service.com.apple.private.alloy.icloudpairing.plist             
+com.apple.ids.service.com.apple.private.alloy.idsremoteurlconnection.plist    
+com.apple.ids.service.com.apple.private.alloy.maps.plist                      
+com.apple.ids.service.com.apple.private.alloy.multiplex1.plist                
+com.apple.ids.service.com.apple.private.alloy.phonecontinuity.plist           
+com.apple.ids.service.com.apple.private.alloy.screensharing.plist             
+com.apple.ids.service.com.apple.private.alloy.sms.plist                       
+com.apple.imagent.plist                                                       
+com.apple.imessage.bag.plist                                                  
+com.apple.imservice.ids.FaceTime.plist                                        
+com.apple.imservice.ids.iMessage.plist                                        
+com.apple.internetaccounts.plist                                              
+com.apple.internetconnect.plist                                               
+com.apple.java.util.prefs.plist                                               
+com.apple.keychainaccess.plist                                                
+com.apple.loginitems.plist                                                    
+com.apple.loginwindow.plist                                                   
+com.apple.mail-shared.plist                                                   
+com.apple.mediaaccessibility.plist                                            
+com.apple.menuextra.battery.plist                                             
+com.apple.menuextra.clock.plist                                               
+com.apple.menuextra.textinput.plist                                           
+com.apple.messaging.expire.plist                                              
+com.apple.metadata.SpotlightNetHelper.plist                                   
+com.apple.mmcs.plist                                                          
+com.apple.networkConnect.plist                                                
+com.apple.notificationcenterui.plist                                          
+com.apple.preference.general.plist                                            
+com.apple.preferences.extensions.ServicesWithUI.plist                         
+com.apple.preferences.extensions.ShareMenu.plist                              
+com.apple.quicklook.satellite.plist                                           
+com.apple.quicktime.plugin.preferences.plist                                  
+com.apple.recentitems.plist                                                   
+com.apple.registration.plist                                                  
+com.apple.scheduler.plist                                                     
+com.apple.screensaver.plist                                                   
+com.apple.security.KCN.plist                                                  
+com.apple.security.cloudkeychainproxy3.keysToRegister.plist                   
+com.apple.security.logging.plist                                              
+com.apple.sharingd.plist                                                      
+com.apple.sidebarlists.plist                                                  
+com.apple.spaces.plist                                                        
+com.apple.speech.recognition.AppleSpeechRecognition.prefs.plist               
+com.apple.storeagent.plist                                                    
+com.apple.symbolichotkeys.plist                                               
+com.apple.syncserver.plist                                                    
+com.apple.systempreferences.plist                                             
+com.apple.systempreferences.plist.1cmf0bK                                     
+com.apple.systemuiserver.plist                                                
+com.apple.typographypanel.plist                                               
+com.apple.ubd.plist                                                           
+com.apple.universalaccess.plist                                               
+com.apple.universalaccessAuthWarning.plist                                    
+com.apple.wifi.keychain-format.plist                                          
+com.apple.xpc.activity.plist                                                  
+com.apple.xpc.activity2.plist                                                 
+com.becrux.Wally.plist                                                        
+com.blizzard.blizzarderror.plist                                              
+com.blizzard.diablo3.plist                                                    
+com.blizzard.systemsurvey.plist                                               
+com.divisiblebyzero.Spectacle.plist                                           
+com.ecamm.iGlassesAgent.LSSharedFileList.plist                                
+com.ecamm.iGlassesAgent.plist                                                 
+com.ecamm.iGlassesHelp.plist                                                  
+com.exurion.BlackFire.plist                                                   
+com.florianbethke.iFire.plist                                                 
+com.google.Chrome.plist                                                       
+com.google.GoogleDrive.plist                                                  
+com.google.Keystone.Agent.plist                                               
+com.google.android.mtpviewer.plist                                            
+com.googlecode.iterm2.plist                                                   
+com.iggsoftware.iBank4.LSSharedFileList.plist                                 
+com.iggsoftware.iBank4.plist                                                  
+com.iggsoftware.iBank5.LSSharedFileList.plist                                 
+com.irradiatedsoftware.SizeUp.plist                                           
+com.jetbrains.PhpStorm.plist                                                  
+com.jetbrains.WebStorm.plist                                                  
+com.jetbrains.intellij.ce.plist                                               
+com.jetbrains.rubymine.plist                                                  
+com.lastpass.lastpassmacinstaller.plist                                       
+com.machangout.glims.plist                                                    
+com.manytricks.Moom.plist                                                     
+com.microsoft.autoupdate2.plist                                               
+com.omnigroup.OmniDiskSweeper.plist                                           
+com.omnigroup.OmniSoftwareUpdate.plist                                        
+com.oracle.java.Java-Updater.plist                                            
+com.oracle.java.JavaAppletPlugin.plist                                        
+com.oracle.javadeployment.plist                                               
+com.parallels.Parallels\ Desktop\ Statistics.plist                            
+com.parallels.Parallels\ Desktop.plist                                        
+com.parallels.Parallels.plist                                                 
+com.parallels.desktop.console.LSSharedFileList.plist                          
+com.parallels.desktop.console.plist                                           
+com.qtproject.plist                                                           
+com.runningwithcrayons.Alfred-2.plist                                         
+com.runningwithcrayons.Alfred-Preferences.plist                               
+com.sequelpro.SequelPro.plist                                                 
+com.skype.skype.plist                                                         
+com.sublimetext.3.plist                                                       
+com.trolltech.plist                                                           
+com.viber.osx.plist                                                           
+loginwindow.plist                                                             
+net.battle.Identity.prefs                                                     
+net.battle.plist                                                              
+net.phere.GitX.LSSharedFileList.plist                                         
+net.phere.GitX.plist                                                          
+nl.frim.GitX.plist                                                            
+org.Special-K.eyePatch.plist                                                  
+org.andymatuschak.sparkle.finish-installation.plist                           
+org.cups.PrintingPrefs.plist                                                  
+org.keepassx.keepassx.plist                                                   
+org.m0k.transmission.LSSharedFileList.plist                                   
+org.m0k.transmission.plist                                                    
+org.macosforge.xquartz.X11.plist                                              
+org.mozilla.crashreporter.plist                                               
+org.mozilla.firefox.plist                                                     
+org.mozilla.plugincontainer.plist                                             
+org.mozilla.thunderbird.plist                                                 
+org.pqrs.Karabiner-AXNotifier.plist                                           
+org.pqrs.Karabiner.EventViewer.plist                                          
+org.pqrs.Karabiner.plist                                                      
+org.pqrs.Seil.plist                                                           
+org.sil.ukelele.plist                                                         
+org.sparkle-project.Sparkle.Autoupdate.plist                                  
+[1;31morg.videolan.vlc[0;39m/                                                             
+org.videolan.vlc.LSSharedFileList.plist                                       
+org.videolan.vlc.plist                                                        
+org.vim.MacVim.LSSharedFileList.plist                                         
+org.vim.MacVim.plist                                                          
+org.virtualbox.app.VirtualBoxVM.plist                                         
+pl.gadu-gadu.GG.plist                                                         
+widget-com.apple.widget.calendar.plist                                        
+widget-com.apple.widget.cinema.plist                                          
+widget-com.apple.widget.dictionary.plist                                      
+widget-com.apple.widget.stickies.plist                                        
+widget-com.apple.widget.translation.plist                                     
+widget-com.apple.widget.weather.plist                                         
+xcodebuild.plist                                                              
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m vim ~/Library/Preferences/ 
+2BUA8C4S2C.com.agilebits.onepassword4-helper.plist                            
+[1;31mByHost[0;39m/                                                                       
+[1;31mIdeaIC13[0;39m/                                                                     
+[1;31mIdeaIC14[0;39m/                                                                     
+[1;31mMacromedia[0;39m/                                                                   
+MobileMeAccounts.plist                                                        
+[1;31mParallels[0;39m/                                                                    
+QNapi.plist                                                                   
+QuickTime\ Preferences                                                        
+[1;31mRubyMine60[0;39m/                                                                   
+[1;31mUkelele[0;39m/                                                                      
+[1;31mWebIde70[0;39m/                                                                     
+[1;31mWebIde80[0;39m/                                                                     
+[1;31mWebStorm9[0;39m/                                                                    
+callservicesd.plist                                                           
+com.agilebits.onepassword4.plist                                              
+com.apple.ATS.plist                                                           
+com.apple.ActivityMonitor.plist                                               
+com.apple.AddressBook.plist                                                   
+com.apple.AppleMultitouchTrackpad.plist                                       
+com.apple.Automator.LSSharedFileList.plist                                    
+com.apple.Automator.plist                                                     
+com.apple.BezelServices.plist                                                 
+com.apple.BluetoothFileExchange.plist                                         
+com.apple.CallHistorySyncHelper.plist                                         
+com.apple.CaptiveNetworkAssistant.plist                                       
+com.apple.CharacterPicker.plist                                               
+com.apple.ColorSyncUtility.LSSharedFileList.plist                             
+com.apple.ColorSyncUtility.plist                                              
+com.apple.CoreGraphics.plist                                                  
+com.apple.DiskUtility.plist                                                   
+com.apple.FileStatsAgent.plist                                                
+com.apple.FolderActions.plist                                                 
+com.apple.GEO.plist                                                           
+com.apple.HIToolbox.plist                                                     
+com.apple.InputMethodKit.UserDictionary.plist                                 
+[1;31mcom.apple.JapaneseAnalysis[0;39m/                                                   
+[1;31mcom.apple.LaunchServices[0;39m/                                                     
+com.apple.LaunchServices.QuarantineEventsV2                                   
+com.apple.LaunchServices.plist                                                
+com.apple.MassStorageCamera.plist                                             
+com.apple.MessagesHistoryImporter.plist                                       
+com.apple.NotesMigratorService.plist                                          
+com.apple.PTPCamera.plist                                                     
+com.apple.PhotoBooth.plist                                                    
+com.apple.Preview.LSSharedFileList.plist                                      
+com.apple.ProblemReporter.plist                                               
+com.apple.PubSubAgent.plist                                                   
+com.apple.QuickLookDaemon.plist                                               
+com.apple.QuickTimePlayerX.LSSharedFileList.plist                             
+com.apple.Safari.Extensions.plist                                             
+com.apple.Safari.plist                                                        
+com.apple.ScriptEditor2.plist                                                 
+com.apple.ServicesMenu.Services.plist                                         
+com.apple.SetupAssistant.plist                                                
+com.apple.Spotlight.plist                                                     
+com.apple.SystemProfiler.plist                                                
+com.apple.TelephonyUtilities.plist                                            
+com.apple.Terminal.plist                                                      
+com.apple.TextEdit.LSSharedFileList.plist                                     
+com.apple.UserAccountUpdater.plist                                            
+[1;31mcom.apple.VoiceOver4[0;39m/                                                         
+com.apple.VoiceOver4.local.plist                                              
+com.apple.accountsd.plist                                                     
+com.apple.appstore.plist                                                      
+com.apple.archiveutility.plist                                                
+com.apple.assistant.plist                                                     
+com.apple.audio.InfoHelper.plist                                              
+com.apple.bird.plist                                                          
+com.apple.bookstoreagent.plist                                                
+com.apple.bootcampassistant.plist                                             
+com.apple.calculateframework.plist                                            
+com.apple.cloudpaird.plist                                                    
+com.apple.commerce.knownclients.plist                                         
+com.apple.commerce.plist                                                      
+com.apple.coreservices.uiagent.plist                                          
+com.apple.dashboard.client.plist                                              
+com.apple.dashboard.plist                                                     
+com.apple.diskimages.fsck                                                     
+com.apple.dock.plist                                                          
+com.apple.driver.AppleBluetoothMultitouch.mouse.plist                         
+com.apple.driver.AppleBluetoothMultitouch.trackpad.plist                      
+com.apple.driver.AppleHIDMouse.plist                                          
+com.apple.dt.Xcode.plist                                                      
+com.apple.facetime.bag.plist                                                  
+com.apple.facetime.plist                                                      
+com.apple.finder.plist                                                        
+com.apple.frameworks.diskimages.diuiagent.plist                               
+com.apple.gamed.plist                                                         
+com.apple.help.plist                                                          
+com.apple.helpd.plist                                                         
+com.apple.helpviewer.plist                                                    
+com.apple.iApps.plist                                                         
+com.apple.iCal.plist                                                          
+com.apple.iChat.AIM.plist                                                     
+com.apple.iChat.Jabber.plist                                                  
+com.apple.iChat.LSSharedFileList.plist                                        
+com.apple.iChat.StatusMessages.plist                                          
+com.apple.iChat.Yahoo.plist                                                   
+com.apple.iChat.plist                                                         
+com.apple.iLifeAssetManagement.crash.plist                                    
+com.apple.iLifePhotoStream.importstatus.plist                                 
+com.apple.iLifePhotoStream.plist                                              
+com.apple.iMovieApp.plist                                                     
+com.apple.iPhoto.LSSharedFileList.plist                                       
+com.apple.iPhoto.plist                                                        
+com.apple.iPod.plist                                                          
+com.apple.iTunes.eq.plist                                                     
+com.apple.iTunes.plist                                                        
+com.apple.iTunesHelper.plist                                                  
+com.apple.iWork.Keynote.LSSharedFileList.plist                                
+com.apple.iWork.Pages.LSSharedFileList.plist                                  
+com.apple.ibtool.plist                                                        
+com.apple.icbaccountsd.plist                                                  
+com.apple.icloud.fmfd.plist                                                   
+com.apple.identityservicesd.plist                                             
+com.apple.ids.deviceproperties.plist                                          
+com.apple.ids.service.com.apple.ess.plist                                     
+com.apple.ids.service.com.apple.madrid.plist                                  
+com.apple.ids.service.com.apple.private.ac.plist                              
+com.apple.ids.service.com.apple.private.alloy.callhistorysync.plist           
+com.apple.ids.service.com.apple.private.alloy.continuity.activity.plist       
+com.apple.ids.service.com.apple.private.alloy.continuity.activity.public.plist
+com.apple.ids.service.com.apple.private.alloy.continuity.auth.plist           
+com.apple.ids.service.com.apple.private.alloy.continuity.encryption.plist     
+com.apple.ids.service.com.apple.private.alloy.continuity.tethering.plist      
+com.apple.ids.service.com.apple.private.alloy.icloudpairing.plist             
+com.apple.ids.service.com.apple.private.alloy.idsremoteurlconnection.plist    
+com.apple.ids.service.com.apple.private.alloy.maps.plist                      
+com.apple.ids.service.com.apple.private.alloy.multiplex1.plist                
+com.apple.ids.service.com.apple.private.alloy.phonecontinuity.plist           
+com.apple.ids.service.com.apple.private.alloy.screensharing.plist             
+com.apple.ids.service.com.apple.private.alloy.sms.plist                       
+com.apple.imagent.plist                                                       
+com.apple.imessage.bag.plist                                                  
+com.apple.imservice.ids.FaceTime.plist                                        
+com.apple.imservice.ids.iMessage.plist                                        
+com.apple.internetaccounts.plist                                              
+com.apple.internetconnect.plist                                               
+com.apple.java.util.prefs.plist                                               
+com.apple.keychainaccess.plist                                                
+com.apple.loginitems.plist                                                    
+com.apple.loginwindow.plist                                                   
+com.apple.mail-shared.plist                                                   
+com.apple.mediaaccessibility.plist                                            
+com.apple.menuextra.battery.plist                                             
+com.apple.menuextra.clock.plist                                               
+com.apple.menuextra.textinput.plist                                           
+com.apple.messaging.expire.plist                                              
+com.apple.metadata.SpotlightNetHelper.plist                                   
+com.apple.mmcs.plist                                                          
+com.apple.networkConnect.plist                                                
+com.apple.notificationcenterui.plist                                          
+com.apple.preference.general.plist                                            
+com.apple.preferences.extensions.ServicesWithUI.plist                         
+com.apple.preferences.extensions.ShareMenu.plist                              
+com.apple.quicklook.satellite.plist                                           
+com.apple.quicktime.plugin.preferences.plist                                  
+com.apple.recentitems.plist                                                   
+com.apple.registration.plist                                                  
+com.apple.scheduler.plist                                                     
+com.apple.screensaver.plist                                                   
+com.apple.security.KCN.plist                                                  
+com.apple.security.cloudkeychainproxy3.keysToRegister.plist                   
+com.apple.security.logging.plist                                              
+com.apple.sharingd.plist                                                      
+com.apple.sidebarlists.plist                                                  
+com.apple.spaces.plist                                                        
+com.apple.speech.recognition.AppleSpeechRecognition.prefs.plist               
+com.apple.storeagent.plist                                                    
+com.apple.symbolichotkeys.plist                                               
+com.apple.syncserver.plist                                                    
+com.apple.systempreferences.plist                                             
+com.apple.systempreferences.plist.1cmf0bK                                     
+com.apple.systemuiserver.plist                                                
+com.apple.typographypanel.plist                                               
+com.apple.ubd.plist                                                           
+com.apple.universalaccess.plist                                               
+com.apple.universalaccessAuthWarning.plist                                    
+com.apple.wifi.keychain-format.plist                                          
+com.apple.xpc.activity.plist                                                  
+com.apple.xpc.activity2.plist                                                 
+com.becrux.Wally.plist                                                        
+com.blizzard.blizzarderror.plist                                              
+com.blizzard.diablo3.plist                                                    
+com.blizzard.systemsurvey.plist                                               
+com.divisiblebyzero.Spectacle.plist                                           
+com.ecamm.iGlassesAgent.LSSharedFileList.plist                                
+com.ecamm.iGlassesAgent.plist                                                 
+com.ecamm.iGlassesHelp.plist                                                  
+com.exurion.BlackFire.plist                                                   
+com.florianbethke.iFire.plist                                                 
+com.google.Chrome.plist                                                       
+com.google.GoogleDrive.plist                                                  
+com.google.Keystone.Agent.plist                                               
+com.google.android.mtpviewer.plist                                            
+com.googlecode.iterm2.plist                                                   
+com.iggsoftware.iBank4.LSSharedFileList.plist                                 
+com.iggsoftware.iBank4.plist                                                  
+com.iggsoftware.iBank5.LSSharedFileList.plist                                 
+com.irradiatedsoftware.SizeUp.plist                                           
+com.jetbrains.PhpStorm.plist                                                  
+com.jetbrains.WebStorm.plist                                                  
+com.jetbrains.intellij.ce.plist                                               
+com.jetbrains.rubymine.plist                                                  
+com.lastpass.lastpassmacinstaller.plist                                       
+com.machangout.glims.plist                                                    
+com.manytricks.Moom.plist                                                     
+com.microsoft.autoupdate2.plist                                               
+com.omnigroup.OmniDiskSweeper.plist                                           
+com.omnigroup.OmniSoftwareUpdate.plist                                        
+com.oracle.java.Java-Updater.plist                                            
+com.oracle.java.JavaAppletPlugin.plist                                        
+com.oracle.javadeployment.plist                                               
+com.parallels.Parallels\ Desktop\ Statistics.plist                            
+com.parallels.Parallels\ Desktop.plist                                        
+com.parallels.Parallels.plist                                                 
+com.parallels.desktop.console.LSSharedFileList.plist                          
+com.parallels.desktop.console.plist                                           
+com.qtproject.plist                                                           
+com.runningwithcrayons.Alfred-2.plist                                         
+com.runningwithcrayons.Alfred-Preferences.plist                               
+com.sequelpro.SequelPro.plist                                                 
+com.skype.skype.plist                                                         
+com.sublimetext.3.plist                                                       
+com.trolltech.plist                                                           
+com.viber.osx.plist                                                           
+loginwindow.plist                                                             
+net.battle.Identity.prefs                                                     
+net.battle.plist                                                              
+net.phere.GitX.LSSharedFileList.plist                                         
+net.phere.GitX.plist                                                          
+nl.frim.GitX.plist                                                            
+org.Special-K.eyePatch.plist                                                  
+org.andymatuschak.sparkle.finish-installation.plist                           
+org.cups.PrintingPrefs.plist                                                  
+org.keepassx.keepassx.plist                                                   
+org.m0k.transmission.LSSharedFileList.plist                                   
+org.m0k.transmission.plist                                                    
+org.macosforge.xquartz.X11.plist                                              
+org.mozilla.crashreporter.plist                                               
+org.mozilla.firefox.plist                                                     
+org.mozilla.plugincontainer.plist                                             
+org.mozilla.thunderbird.plist                                                 
+org.pqrs.Karabiner-AXNotifier.plist                                           
+org.pqrs.Karabiner.EventViewer.plist                                          
+org.pqrs.Karabiner.plist                                                      
+org.pqrs.Seil.plist                                                           
+org.sil.ukelele.plist                                                         
+org.sparkle-project.Sparkle.Autoupdate.plist                                  
+[1;31morg.videolan.vlc[0;39m/                                                             
+org.videolan.vlc.LSSharedFileList.plist                                       
+org.videolan.vlc.plist                                                        
+org.vim.MacVim.LSSharedFileList.plist                                         
+org.vim.MacVim.plist                                                          
+org.virtualbox.app.VirtualBoxVM.plist                                         
+pl.gadu-gadu.GG.plist                                                         
+widget-com.apple.widget.calendar.plist                                        
+widget-com.apple.widget.cinema.plist                                          
+widget-com.apple.widget.dictionary.plist                                      
+widget-com.apple.widget.stickies.plist                                        
+widget-com.apple.widget.translation.plist                                     
+widget-com.apple.widget.weather.plist                                         
+xcodebuild.plist                                                              
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m vim ~/Library/Preferences/
+[40m [31m✘ [30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ls ~/Library/Preferences | grep sequel
+com.[1;31msequel[0;39mpro.SequelPro.plist
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m ls ~/Library/Preferences | grep sequel
+[40m [31m✘ [30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m vim ~/Library/Preferences/com.sequelpro.SequelPro.plist 
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m vim ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist
+[30;44m ~/.dotfiles [34;43m[30m  master ● [33;49m[39m cd ~/code/Metricso 
+[30;44m ~/code/Metricso [34;49m[39m ls
+192.168.22.15.xip.io.conf Vagrantfile               db.sql                    [1;36mmetricso[0;39m                  [1;36mmetricso-worker[0;39m           [1;36mmysql[0;39m                     [1;36msupervisor-manager
+[0;30;44m ~/code/Metricso [34;49m[39m cd ..
+[30;44m ~/code [34;49m[39m cd docker 
+[30;44m ~/code/docker [34;49m[39m ls
+[1;36mlearnyounode[0;39m [1;36mtest
+[0;30;44m ~/code/docker [34;49m[39m cd test 
+[30;44m ~/code/docker/test [34;43m[30m  master ● [33;49m[39m ls
+[1;36mlamp[0;39m     [1;36mmetricso[0;39m tags     [1;36mtest
+[0;30;44m ~/code/docker/test [34;43m[30m  master ● [33;49m[39m cd metricso 
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ls
+[1;36mapp[0;39m                docker-compose.yml
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_app_1
+root@774caf7cd0b3:/var/www/html# env
+METRICSO_REDIS_1_PORT_6379_TCP_PORT=6379
+APACHE_PID_FILE=/var/run/apache2.pid
+METRICSO_DB_1_PORT_3306_TCP_PROTO=tcp
+REDIS_ENV_REDIS_DOWNLOAD_URL=http://download.redis.io/releases/redis-3.0.2.tar.gz
+REDIS_PORT_6379_TCP_PROTO=tcp
+DB_HOST=localhost
+HOSTNAME=774caf7cd0b3
+DB_1_PORT_3306_TCP_PROTO=tcp
+DB_NAME=/metricso_app_1/db
+REDIS_ENV_REDIS_DOWNLOAD_SHA1=a38755fe9a669896f7c5d8cd3ebbf76d59712002
+METRICSO_REDIS_1_PORT=tcp://172.17.0.139:6379
+DB_ARCHIVE=metricso_dev_archive
+DB_PASS=root
+APACHE_RUN_USER=www-data
+PHP_INI_DIR=/usr/local/etc/php
+DB_PORT=tcp://172.17.0.137:3306
+REDIS_1_PORT_6379_TCP=tcp://172.17.0.139:6379
+APACHE_DOCUMENTROOT=/var/www
+DB_PORT_3306_TCP_PORT=3306
+REDIS_1_PORT_6379_TCP_PORT=6379
+REDIS_NAME=/metricso_app_1/redis
+APACHE_SERVERALIAS=docker.localhost
+METRICSO_DB_1_PORT_3306_TCP_ADDR=172.17.0.137
+REDIS_1_PORT=tcp://172.17.0.139:6379
+REDIS_PORT_6379_TCP_ADDR=172.17.0.139
+DB_PORT_3306_TCP_PROTO=tcp
+APACHE_SERVERNAME=localhost
+ENV=dev
+REDIS_1_PORT_6379_TCP_PROTO=tcp
+METRICSO_REDIS_1_PORT_6379_TCP=tcp://172.17.0.139:6379
+METRICSO_DB_1_NAME=/metricso_app_1/metricso_db_1
+DB_1_PORT=tcp://172.17.0.137:3306
+DB_ENV_MYSQL_ROOT_PASSWORD=root
+REDIS_1_ENV_REDIS_DOWNLOAD_SHA1=a38755fe9a669896f7c5d8cd3ebbf76d59712002
+REDIS_1_NAME=/metricso_app_1/redis_1
+REDIS_PORT_6379_TCP_PORT=6379
+DB_1_PORT_3306_TCP_PORT=3306
+METRICSO_DB_1_PORT=tcp://172.17.0.137:3306
+APACHE_LOG_DIR=/var/log/apache2
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+GPG_KEYS=6E4F6AB321FDC07F2C332E3AC2BF0BC433CFC8B3 0BD78B5F97500D450838F95DFE857D9A90D90EC1
+DB_1_PORT_3306_TCP=tcp://172.17.0.137:3306
+METRICSO_REDIS_1_ENV_REDIS_DOWNLOAD_SHA1=a38755fe9a669896f7c5d8cd3ebbf76d59712002
+METRICSO_REDIS_1_PORT_6379_TCP_ADDR=172.17.0.139
+PWD=/var/www/html
+DB_PASSWORD=root
+APACHE_RUN_GROUP=www-data
+DB_1_ENV_MYSQL_VERSION=5.5.44
+REDIS_PORT_6379_TCP=tcp://172.17.0.139:6379
+METRICSO_DB_1_ENV_MYSQL_MAJOR=5.5
+METRICSO_DB_1_PORT_3306_TCP=tcp://172.17.0.137:3306
+DB_1_ENV_MYSQL_MAJOR=5.5
+DB_PORT_3306_TCP_ADDR=172.17.0.137
+DB_1_ENV_MYSQL_ROOT_PASSWORD=root
+REDIS_1_ENV_REDIS_VERSION=3.0.2
+METRICSO_REDIS_1_NAME=/metricso_app_1/metricso_redis_1
+DB_FB=metricso_dev_fb
+APACHE_SERVERADMIN=admin@localhost
+SHLVL=1
+HOME=/root
+DB_USERNAME=root
+REDIS_PORT=tcp://172.17.0.139:6379
+DB_PORT_3306_TCP=tcp://172.17.0.137:3306
+METRICSO_REDIS_1_ENV_REDIS_VERSION=3.0.2
+METRICSO_DB_1_PORT_3306_TCP_PORT=3306
+METRICSO_REDIS_1_PORT_6379_TCP_PROTO=tcp
+METRICSO_DB_1_ENV_MYSQL_ROOT_PASSWORD=root
+METRICSO_REDIS_1_ENV_REDIS_DOWNLOAD_URL=http://download.redis.io/releases/redis-3.0.2.tar.gz
+DB_USER=root
+DB_1_NAME=/metricso_app_1/db_1
+DB_ENV_MYSQL_VERSION=5.5.44
+REDIS_ENV_REDIS_VERSION=3.0.2
+REDIS_1_PORT_6379_TCP_ADDR=172.17.0.139
+PHP_EXTRA_BUILD_DEPS=apache2-dev
+DB_1_PORT_3306_TCP_ADDR=172.17.0.137
+DB_ENV_MYSQL_MAJOR=5.5
+METRICSO_APP_ENV=dev
+APACHE_RUN_DIR=/var/run/apache2
+APACHE_LOCK_DIR=/var/lock/apache2
+PHP_VERSION=5.6.10
+METRICSO_DB_1_ENV_MYSQL_VERSION=5.5.44
+PHP_EXTRA_CONFIGURE_ARGS=--with-apxs2
+REDIS_1_ENV_REDIS_DOWNLOAD_URL=http://download.redis.io/releases/redis-3.0.2.tar.gz
+_=/usr/bin/env
+root@774caf7cd0b3:/var/www/html# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ls
+[1;36mapp[0;39m                docker-compose.yml
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc exit 
+No such command: exit
+
+Commands:
+  build     Build or rebuild services
+  help      Get help on a command
+  kill      Kill containers
+  logs      View output from containers
+  port      Print the public port for a port binding
+  ps        List containers
+  pull      Pulls service images
+  rm        Remove stopped containers
+  run       Run a one-off command
+  scale     Set number of containers for a service
+  start     Start services
+  stop      Stop services
+  restart   Restart services
+  up        Create and start containers
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc kill
+Killing metricso_app_1...
+Killing metricso_redis_1...
+Killing metricso_db_1...
+d[1;3m%[0m                                                                                                                                                                                             [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc build
+shared uses an image, skipping
+db uses an image, skipping
+redis uses an image, skipping
+Building app...
+Step 0 : FROM php:5.6-apache
+ ---> 9afe13756d6d
+Step 1 : ADD config/php.ini /usr/local/etc/php/php.ini
+ ---> Using cache
+ ---> 6cffe1c8ff6f
+Step 2 : ADD config/my.cnf /etc/mysql/my.cnf
+ ---> Using cache
+ ---> 117f11a048e7
+Step 3 : COPY src/ /var/www/html
+ ---> Using cache
+ ---> 31a822105751
+Step 4 : RUN apt-get update
+ ---> Using cache
+ ---> 8d4845cfbae9
+Step 5 : RUN apt-get install -y openssh-server supervisor
+ ---> Using cache
+ ---> 5ced9d0156bd
+Step 6 : COPY config/supervisor /etc/supervisor/conf.d
+ ---> Using cache
+ ---> c9ac3d460b21
+Step 7 : RUN apt-get install -y git zlib1g-dev curl libcurl3 libcurl3-dev libmcrypt-dev libbz2-dev libpng12-dev zlib1g
+ ---> Using cache
+ ---> 8bff9dde2c01
+Step 8 : RUN docker-php-ext-install pcntl curl mcrypt mysql pdo_mysql bz2 gd mbstring zip bcmath
+ ---> Using cache
+ ---> 8a8e22cf0fe9
+Step 9 : RUN pecl install redis;         echo "extension=redis.so" > /usr/local/etc/php/conf.d/ext-redis.ini;         pecl install xdebug;         echo 'zend_extension = /usr/local/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so;' >> /usr/local/etc/php/php.ini;         touch /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_enable=1 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_autostart=0 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_connect_back=1 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_port=9000 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_log=/tmp/php5-xdebug.log >> /usr/local/etc/php/conf.d/xdebug.ini
+ ---> Using cache
+ ---> 4ab7eb931688
+Step 10 : RUN cd /usr/local/bin &&     curl -sS https://getcomposer.org/installer | php &&     cd -
+ ---> Using cache
+ ---> fb6909ad8087
+Step 11 : EXPOSE 22 80
+ ---> Using cache
+ ---> c5ebe9811b7f
+Successfully built c5ebe9811b7f
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up
+Recreating metricso_shared_1...
+^C
+Aborting.
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up -d
+Recreating metricso_shared_1...
+Recreating metricso_db_1...
+Recreating metricso_redis_1...
+Recreating metricso_app_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_db_1
+root@c6aaac1ff3de:/# cd /etc/mysql
+root@c6aaac1ff3de:/etc/mysql# ls
+conf.d  my.cnf
+root@c6aaac1ff3de:/etc/mysql# cat my.cnf 
+[mysqld]
+!includedir /etc/mysql/conf.d/
+root@c6aaac1ff3de:/etc/mysql# cd conf.d
+root@c6aaac1ff3de:/etc/mysql/conf.d# cat conf.d
+cat: conf.d: No such file or directory
+root@c6aaac1ff3de:/etc/mysql/conf.d# ls
+docker.cnf
+root@c6aaac1ff3de:/etc/mysql/conf.d# cat docker.cnf 
+[mysqld]
+user = mysql
+datadir = /var/lib/mysql
+root@c6aaac1ff3de:/etc/mysql/conf.d# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc kill
+Killing metricso_app_1...
+Killing metricso_redis_1...
+Killing metricso_db_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc build
+shared uses an image, skipping
+db uses an image, skipping
+redis uses an image, skipping
+Building app...
+Step 0 : FROM php:5.6-apache
+ ---> 9afe13756d6d
+Step 1 : ADD config/php.ini /usr/local/etc/php/php.ini
+ ---> Using cache
+ ---> 6cffe1c8ff6f
+Step 2 : COPY src/ /var/www/html
+ ---> Using cache
+ ---> 38ee8de03f97
+Step 3 : RUN apt-get update
+ ---> Using cache
+ ---> f7dc46a3ede4
+Step 4 : RUN apt-get install -y openssh-server supervisor
+ ---> Using cache
+ ---> 921cc1dac09a
+Step 5 : COPY config/supervisor /etc/supervisor/conf.d
+ ---> Using cache
+ ---> 4cedc91208ae
+Step 6 : RUN apt-get install -y git zlib1g-dev curl libcurl3 libcurl3-dev libmcrypt-dev libbz2-dev libpng12-dev zlib1g
+ ---> Using cache
+ ---> e487c7f2ede3
+Step 7 : RUN docker-php-ext-install pcntl curl mcrypt mysql pdo_mysql bz2 gd mbstring zip bcmath
+ ---> Using cache
+ ---> 4d05d3bba262
+Step 8 : RUN pecl install redis;         echo "extension=redis.so" > /usr/local/etc/php/conf.d/ext-redis.ini;         pecl install xdebug;         echo 'zend_extension = /usr/local/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so;' >> /usr/local/etc/php/php.ini;         touch /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_enable=1 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_autostart=0 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_connect_back=1 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_port=9000 >> /usr/local/etc/php/conf.d/xdebug.ini;         echo xdebug.remote_log=/tmp/php5-xdebug.log >> /usr/local/etc/php/conf.d/xdebug.ini
+ ---> Using cache
+ ---> 103b4869ab6c
+Step 9 : RUN cd /usr/local/bin &&     curl -sS https://getcomposer.org/installer | php &&     cd -
+ ---> Using cache
+ ---> 07cc9e2af4a5
+Step 10 : EXPOSE 22 80
+ ---> Using cache
+ ---> 9ec0b4f147f5
+Successfully built 9ec0b4f147f5
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up
+Recreating metricso_shared_1...
+Recreating metricso_db_1...
+Recreating metricso_redis_1...
+Recreating metricso_app_1...
+Attaching to metricso_db_1, metricso_redis_1, metricso_app_1
+[36mdb_1    | [39mRunning mysql_install_db
+[36mdb_1    | [39m150616 22:37:42 [Note] /usr/local/mysql/bin/mysqld (mysqld 5.5.44) starting as process 57 ...
+[36mdb_1    | [39m150616 22:37:42 [Note] /usr/local/mysql/bin/mysqld (mysqld 5.5.44) starting as process 63 ...
+[36mdb_1    | 
+db_1    | [39mPLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
+[36mdb_1    | [39mTo do so, start the server, then issue the following commands:
+[36mdb_1    | 
+db_1    | [39m/usr/local/mysql/bin/mysqladmin -u root password 'new-password'
+[36mdb_1    | [39m/usr/local/mysql/bin/mysqladmin -u root -h 0eed21241282 password 'new-password'
+[36mdb_1    | 
+db_1    | [39mAlternatively you can run:
+[36mdb_1    | [39m/usr/local/mysql/bin/mysql_secure_installation
+[36mdb_1    | 
+db_1    | [39mwhich will also give you the option of removing the test
+[36mdb_1    | [39mdatabases and anonymous user created by default.  This is
+[36mdb_1    | [39mstrongly recommended for production servers.
+[36mdb_1    | 
+db_1    | [39mSee the manual for more instructions.
+[36mdb_1    | 
+db_1    | [39mPlease report any problems at http://bugs.mysql.com/
+[36mdb_1    | 
+db_1    | [39mFinished mysql_install_db
+[36mdb_1    | [39mMySQL init process in progress...
+[36mdb_1    | [39m150616 22:37:42 [Note] mysqld (mysqld 5.5.44) starting as process 67 ...
+[36mdb_1    | [39m150616 22:37:42 [Note] Plugin 'FEDERATED' is disabled.
+[36mdb_1    | [39m150616 22:37:42 InnoDB: The InnoDB memory heap is disabled
+[36mdb_1    | [39m150616 22:37:42 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+[36mdb_1    | [39m150616 22:37:42 InnoDB: Compressed tables use zlib 1.2.3
+[36mdb_1    | [39m150616 22:37:42 InnoDB: Using Linux native AIO
+[36mdb_1    | [39m150616 22:37:42 InnoDB: Initializing buffer pool, size = 128.0M
+[36mdb_1    | [39m150616 22:37:42 InnoDB: Completed initialization of buffer pool
+[36mdb_1    | [39mInnoDB: The first specified data file ./ibdata1 did not exist:
+[36mdb_1    | [39mInnoDB: a new database to be created!
+[36mdb_1    | [39m150616 22:37:42  InnoDB: Setting file ./ibdata1 size to 10 MB
+[36mdb_1    | [39mInnoDB: Database physically writes the file full: wait...
+[36mdb_1    | [39m150616 22:37:42  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+[36mdb_1    | [39mInnoDB: Setting log file ./ib_logfile0 size to 5 MB
+[36mdb_1    | [39mInnoDB: Database physically writes the file full: wait...
+[36mdb_1    | [39m150616 22:37:42  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+[36mdb_1    | [39mInnoDB: Setting log file ./ib_logfile1 size to 5 MB
+[36mdb_1    | [39mInnoDB: Database physically writes the file full: wait...
+[36mdb_1    | [39mInnoDB: Doublewrite buffer not found: creating new
+[36mdb_1    | [39mInnoDB: Doublewrite buffer created
+[36mdb_1    | [39mInnoDB: 127 rollback segment(s) active.
+[36mdb_1    | [39mInnoDB: Creating foreign key constraint system tables
+[36mdb_1    | [39mInnoDB: Foreign key constraint system tables created
+[36mdb_1    | [39m150616 22:37:42  InnoDB: Waiting for the background threads to start
+[36mdb_1    | [39mMySQL init process in progress...
+[36mdb_1    | [39m150616 22:37:43 InnoDB: 5.5.44 started; log sequence number 0
+[36mdb_1    | [39m150616 22:37:43 [Note] Event Scheduler: Loaded 0 events
+[36mdb_1    | [39m150616 22:37:43 [Note] mysqld: ready for connections.
+[36mdb_1    | [39mVersion: '5.5.44'  socket: '/tmp/mysql.sock'  port: 0  MySQL Community Server (GPL)
+[36mdb_1    | [39m150616 22:37:44 [Note] mysqld: Normal shutdown
+[36mdb_1    | 
+db_1    | [39m150616 22:37:44 [Note] Event Scheduler: Purging the queue. 0 events
+[36mdb_1    | [39m150616 22:37:44  InnoDB: Starting shutdown...
+[36mdb_1    | [39mMySQL init process in progress...
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.158. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.158. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mPHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[33mredis_1 | [39m1:C 16 Jun 22:37:43.608 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+[33mredis_1 | [39m                _._                                                  
+[33mredis_1 | [39m           _.-``__ ''-._                                             
+[33mredis_1 | [39m      _.-``    `.  `_.  ''-._           Redis 3.0.2 (00000000/0) 64 bit
+[33mredis_1 | [39m  .-`` .-```.  ```\/    _.,_ ''-._                                   
+[33mredis_1 | [39m (    '      ,       .-`  | `,    )     Running in standalone mode
+[33mredis_1 | [39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+[33mredis_1 | [39m |    `-._   `._    /     _.-'    |     PID: 1
+[33mredis_1 | [39m  `-._    `-._  `-./  _.-'    _.-'                                   
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |           http://redis.io        
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[32mapp_1   | [39m[Tue Jun 16 22:37:44.965049 2015] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |                                  
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[33mredis_1 | [39m      `-._    `-.__.-'    _.-'                                       
+[33mredis_1 | [39m          `-._        _.-'                                           
+[33mredis_1 | [39m              `-.__.-'                                               
+[33mredis_1 | 
+redis_1 | [39m1:M 16 Jun 22:37:43.609 # Server started, Redis version 3.0.2
+[33mredis_1 | [39m1:M 16 Jun 22:37:43.609 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[33mredis_1 | [39m1:M 16 Jun 22:37:43.609 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+[33mredis_1 | [39m1:M 16 Jun 22:37:43.609 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+[33mredis_1 | [39m1:M 16 Jun 22:37:43.609 * DB loaded from disk: 0.000 seconds
+[33mredis_1 | [39m1:M 16 Jun 22:37:43.609 * The server is now ready to accept connections on port 6379
+[32mapp_1   | [39m[Tue Jun 16 22:37:44.965258 2015] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[36mdb_1    | [39mMySQL init process in progress...
+[36mdb_1    | [39m150616 22:37:46  InnoDB: Shutdown completed; log sequence number 1595675
+[36mdb_1    | [39m150616 22:37:46 [Note] mysqld: Shutdown complete
+[36mdb_1    | 
+db_1    | [39mMySQL init process done. Ready for start up.
+[36mdb_1    | [39m150616 22:37:46 [Note] mysqld (mysqld 5.5.44) starting as process 1 ...
+[36mdb_1    | [39m150616 22:37:46 [ERROR] Fatal error: Please read "Security" section of the manual to find out how to run mysqld as root!
+[36mdb_1    | 
+db_1    | [39m150616 22:37:46 [ERROR] Aborting
+[36mdb_1    | 
+db_1    | [39m150616 22:37:46 [Note] mysqld: Shutdown complete
+[36mdb_1    | 
+metricso_db_1 exited with code 1
+[39mGracefully stopping... (press Ctrl+C again to force)
+Stopping metricso_app_1...
+Stopping metricso_redis_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up -d
+Recreating metricso_shared_1...
+Recreating metricso_db_1...
+Recreating metricso_redis_1...
+Recreating metricso_app_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc ps
+      Name                    Command             State              Ports            
+-------------------------------------------------------------------------------------
+metricso_app_1      apache2-foreground            Up       22/tcp, 0.0.0.0:80->80/tcp 
+metricso_db_1       /entrypoint.sh mysqld         Up       0.0.0.0:3306->3306/tcp     
+metricso_redis_1    /entrypoint.sh redis-server   Up       0.0.0.0:6379->6379/tcp     
+metricso_shared_1   true                          Exit 0                              
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_db_1
+root@86abab0ac12d:/# cd /etc/mysql
+root@86abab0ac12d:/etc/mysql# ls
+my.cnf
+root@86abab0ac12d:/etc/mysql# cat my.cnf 
+[mysqld]
+user = mysql
+datadir = /var/lib/mysql
+bind-address=0.0.0.0
+max_allowed_packet = 64M
+wait_timeout = 6000
+
+[mysqldump]
+max_allowed_packet = 64M
+root@86abab0ac12d:/etc/mysql# cd ..
+root@86abab0ac12d:/etc# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip metricso_db_1
+zsh: command not found: dip
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m ls
+[1;36mapp[0;39m                docker-compose.yml
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip
+zsh: command not found: dip
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m vim ~/.aliases 
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m reloadconf
+git_cmd=git
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/ca.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/cert.pem
+Writing /Users/switkowski/.boot2docker/certs/boot2docker-vm/key.pem
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip
+docker: "inspect" requires a minimum of 1 argument. See 'docker inspect --help'.
+[40m [31m✘ [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip metricso_db_1
+172.17.0.162
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_db_1
+root@86abab0ac12d:/# mysql -uroot -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 2
+Server version: 5.5.44 MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use mysql;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> select host, user from user;
++-----------+------------------+
+| host      | user             |
++-----------+------------------+
+| 127.0.0.1 | root             |
+| ::1       | root             |
+| localhost | debian-sys-maint |
+| localhost | metricso.dev     |
+| localhost | root             |
+| vaprobash | root             |
++-----------+------------------+
+6 rows in set (0.00 sec)
+
+mysql> hostname             
+    -> Ctrl-C -- exit!
+Aborted
+root@86abab0ac12d:/# ^C
+root@86abab0ac12d:/# hostname
+86abab0ac12d
+root@86abab0ac12d:/# mysql -uroot -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 3
+Server version: 5.5.44 MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use mysql;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> update user set host='192.168.59.%' where user = 'root' and host='vaprobash';
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select host,user from user;
++--------------+------------------+
+| host         | user             |
++--------------+------------------+
+| 127.0.0.1    | root             |
+| 192.168.59.% | root             |
+| ::1          | root             |
+| localhost    | debian-sys-maint |
+| localhost    | metricso.dev     |
+| localhost    | root             |
++--------------+------------------+
+6 rows in set (0.00 sec)
+
+mysql> exit
+Bye
+root@86abab0ac12d:/# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dip metricso_db_1
+172.17.0.162
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dssh metricso_db_1
+root@86abab0ac12d:/# mysql -uroot -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 7
+Server version: 5.5.44 MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2015, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use mysql;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> update user set host='172.17.42.%' where user = 'root' and host='vaprobash'; 
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+mysql> update user set host='172.17.42.%' where user = 'root' and host='192.168.59.%';
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from user
+    -> ;
++-------------+------------------+-------------------------------------------+-------------+-------------+-------------+-------------+-------------+-----------+-------------+---------------+--------------+-----------+------------+-----------------+------------+------------+--------------+------------+-----------------------+------------------+--------------+-----------------+------------------+------------------+----------------+---------------------+--------------------+------------------+------------+--------------+------------------------+----------+------------+-------------+--------------+---------------+-------------+-----------------+----------------------+--------+-----------------------+
+| Host        | User             | Password                                  | Select_priv | Insert_priv | Update_priv | Delete_priv | Create_priv | Drop_priv | Reload_priv | Shutdown_priv | Process_priv | File_priv | Grant_priv | References_priv | Index_priv | Alter_priv | Show_db_priv | Super_priv | Create_tmp_table_priv | Lock_tables_priv | Execute_priv | Repl_slave_priv | Repl_client_priv | Create_view_priv | Show_view_priv | Create_routine_priv | Alter_routine_priv | Create_user_priv | Event_priv | Trigger_priv | Create_tablespace_priv | ssl_type | ssl_cipher | x509_issuer | x509_subject | max_questions | max_updates | max_connections | max_user_connections | plugin | authentication_string |
++-------------+------------------+-------------------------------------------+-------------+-------------+-------------+-------------+-------------+-----------+-------------+---------------+--------------+-----------+------------+-----------------+------------+------------+--------------+------------+-----------------------+------------------+--------------+-----------------+------------------+------------------+----------------+---------------------+--------------------+------------------+------------+--------------+------------------------+----------+------------+-------------+--------------+---------------+-------------+-----------------+----------------------+--------+-----------------------+
+| localhost   | root             | *81F5E21E35407D884A6CD4A731AEBFB6AF209E1B | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | Y                      |          |            |             |              |             0 |           0 |               0 |                    0 |        |                       |
+| 172.17.42.% | root             | *81F5E21E35407D884A6CD4A731AEBFB6AF209E1B | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | Y                      |          |            |             |              |             0 |           0 |               0 |                    0 |        |                       |
+| 127.0.0.1   | root             | *81F5E21E35407D884A6CD4A731AEBFB6AF209E1B | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | Y                      |          |            |             |              |             0 |           0 |               0 |                    0 |        |                       |
+| ::1         | root             | *81F5E21E35407D884A6CD4A731AEBFB6AF209E1B | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | Y                      |          |            |             |              |             0 |           0 |               0 |                    0 |        |                       |
+| localhost   | debian-sys-maint | *38C4DCC0F00FAB64168D8127167CBAEB0BA7B4DA | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | Y                      |          |            |             |              |             0 |           0 |               0 |                    0 |        | NULL                  |
+| localhost   | metricso.dev     | *38FE35C343DBACB2FEAACD8DA2C11E76A635D1B3 | Y           | Y           | Y           | Y           | Y           | Y         | Y           | Y             | Y            | Y         | Y          | Y               | Y          | Y          | Y            | Y          | Y                     | Y                | Y            | Y               | Y                | Y                | Y              | Y                   | Y                  | Y                | Y          | Y            | N                      |          |            |             |              |             0 |           0 |               0 |                    0 |        | NULL                  |
++-------------+------------------+-------------------------------------------+-------------+-------------+-------------+-------------+-------------+-----------+-------------+---------------+--------------+-----------+------------+-----------------+------------+------------+--------------+------------+-----------------------+------------------+--------------+-----------------+------------------+------------------+----------------+---------------------+--------------------+------------------+------------+--------------+------------------------+----------+------------+-------------+--------------+---------------+-------------+-----------------+----------------------+--------+-----------------------+
+6 rows in set (0.00 sec)
+
+mysql> select host,user from user;
++-------------+------------------+
+| host        | user             |
++-------------+------------------+
+| 127.0.0.1   | root             |
+| 172.17.42.% | root             |
+| ::1         | root             |
+| localhost   | debian-sys-maint |
+| localhost   | metricso.dev     |
+| localhost   | root             |
++-------------+------------------+
+6 rows in set (0.00 sec)
+
+mysql> exit
+Bye
+root@86abab0ac12d:/# exit
+exit
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc kill
+Killing metricso_app_1...
+Killing metricso_redis_1...
+Killing metricso_db_1...
+[30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up
+Recreating metricso_db_1...
+Recreating metricso_shared_1...
+Recreating metricso_redis_1...
+Recreating metricso_app_1...
+Attaching to metricso_db_1, metricso_redis_1, metricso_app_1
+[33mredis_1 | [39m1:C 16 Jun 22:48:47.888 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+[33mredis_1 | [39m                _._                                                  
+[33mredis_1 | [39m           _.-``__ ''-._                                             
+[33mredis_1 | [39m      _.-``    `.  `_.  ''-._           Redis 3.0.2 (00000000/0) 64 bit
+[33mredis_1 | [39m  .-`` .-```.  ```\/    _.,_ ''-._                                   
+[33mredis_1 | [39m (    '      ,       .-`  | `,    )     Running in standalone mode
+[33mredis_1 | [39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+[33mredis_1 | [39m |    `-._   `._    /     _.-'    |     PID: 1
+[33mredis_1 | [39m  `-._    `-._  `-./  _.-'    _.-'                                   
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |           http://redis.io        
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |                                  
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[33mredis_1 | [39m      `-._    `-.__.-'    _.-'                                       
+[33mredis_1 | [39m          `-._        _.-'                                           
+[33mredis_1 | [39m              `-.__.-'                                               
+[33mredis_1 | 
+redis_1 | [39m1:M 16 Jun 22:48:47.891 # Server started, Redis version 3.0.2
+[33mredis_1 | [39m1:M 16 Jun 22:48:47.891 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[33mredis_1 | [39m1:M 16 Jun 22:48:47.891 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+[33mredis_1 | [39m1:M 16 Jun 22:48:47.891 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+[33mredis_1 | [39m1:M 16 Jun 22:48:47.891 * DB loaded from disk: 0.000 seconds
+[33mredis_1 | [39m1:M 16 Jun 22:48:47.891 * The server is now ready to accept connections on port 6379
+[36mdb_1    | [39m150616 22:48:45 [Note] mysqld (mysqld 5.5.44) starting as process 1 ...
+[36mdb_1    | [39m150616 22:48:45 [Warning] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+[36mdb_1    | [39m150616 22:48:45 [Note] Plugin 'FEDERATED' is disabled.
+[36mdb_1    | [39m150616 22:48:45 InnoDB: The InnoDB memory heap is disabled
+[36mdb_1    | [39m150616 22:48:45 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+[36mdb_1    | [39m150616 22:48:45 InnoDB: Compressed tables use zlib 1.2.3
+[36mdb_1    | [39m150616 22:48:45 InnoDB: Using Linux native AIO
+[36mdb_1    | [39m150616 22:48:45 InnoDB: Initializing buffer pool, size = 128.0M
+[36mdb_1    | [39m150616 22:48:45 InnoDB: Completed initialization of buffer pool
+[36mdb_1    | [39m150616 22:48:45 InnoDB: highest supported file format is Barracuda.
+[36mdb_1    | [39m150616 22:48:45  InnoDB: Waiting for the background threads to start
+[36mdb_1    | [39m150616 22:48:46 InnoDB: 5.5.44 started; log sequence number 227419488
+[36mdb_1    | [39m150616 22:48:46 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+[36mdb_1    | [39m150616 22:48:46 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+[36mdb_1    | [39m150616 22:48:46 [Note] Server socket created on IP: '0.0.0.0'.
+[36mdb_1    | [39m150616 22:48:46 [Note] Event Scheduler: Loaded 0 events
+[36mdb_1    | [39m150616 22:48:46 [Note] mysqld: ready for connections.
+[36mdb_1    | [39mVersion: '5.5.44'  socket: '/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.174. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.174. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mPHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[32mapp_1   | [39m[Tue Jun 16 22:48:49.213383 2015] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[32mapp_1   | [39m[Tue Jun 16 22:48:49.213463 2015] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[36mdb_1    | [39m150616 22:49:25 [Warning] IP address '172.17.42.1' could not be resolved: Name or service not known
+[32mmetricso_app_1 exited with code 137
+[39mGracefully stopping... (press Ctrl+C again to force)
+Stopping metricso_redis_1...
+Stopping metricso_db_1...
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/compose/build/docker-compose/out00-PYZ.pyz/threading", line 810, in __bootstrap_inner
+  File "/compose/build/docker-compose/out00-PYZ.pyz/threading", line 763, in run
+  File "/compose/build/docker-compose/out00-PYZ.pyz/compose.cli.multiplexer", line 41, in _enqueue_output
+  File "/compose/build/docker-compose/out00-PYZ.pyz/compose.cli.log_printer", line 62, in _make_log_generator
+  File "/compose/build/docker-compose/out00-PYZ.pyz/compose.container", line 140, in wait
+  File "/compose/build/docker-compose/out00-PYZ.pyz/docker.client", line 918, in wait
+  File "/compose/build/docker-compose/out00-PYZ.pyz/docker.client", line 79, in _post
+  File "/compose/build/docker-compose/out00-PYZ.pyz/requests.sessions", line 425, in post
+  File "/compose/build/docker-compose/out00-PYZ.pyz/requests.sessions", line 383, in request
+  File "/compose/build/docker-compose/out00-PYZ.pyz/requests.sessions", line 486, in send[1;3m%[0m                                                                                                     [30;44m ~/code/docker/test/metricso [34;43m[30m  master ● [33;49m[39m dc up
+Recreating metricso_shared_1...
+Recreating metricso_db_1...
+Recreating metricso_redis_1...
+Recreating metricso_app_1...
+Attaching to metricso_db_1, metricso_redis_1, metricso_app_1
+[36mdb_1    | [39m150616 22:50:24 [Note] mysqld (mysqld 5.5.44) starting as process 1 ...
+[36mdb_1    | [39m150616 22:50:24 [Warning] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+[36mdb_1    | [39m150616 22:50:24 [Note] Plugin 'FEDERATED' is disabled.
+[36mdb_1    | [39m150616 22:50:24 InnoDB: The InnoDB memory heap is disabled
+[36mdb_1    | [39m150616 22:50:24 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+[36mdb_1    | [39m150616 22:50:24 InnoDB: Compressed tables use zlib 1.2.3
+[36mdb_1    | [39m150616 22:50:24 InnoDB: Using Linux native AIO
+[36mdb_1    | [39m150616 22:50:24 InnoDB: Initializing buffer pool, size = 128.0M
+[36mdb_1    | [39m150616 22:50:24 InnoDB: Completed initialization of buffer pool
+[36mdb_1    | [39m150616 22:50:24 InnoDB: highest supported file format is Barracuda.
+[36mdb_1    | [39m150616 22:50:24  InnoDB: Waiting for the background threads to start
+[36mdb_1    | [39m150616 22:50:25 InnoDB: 5.5.44 started; log sequence number 227419488
+[36mdb_1    | [39m150616 22:50:25 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+[36mdb_1    | [39m150616 22:50:25 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+[36mdb_1    | [39m150616 22:50:25 [Note] Server socket created on IP: '0.0.0.0'.
+[36mdb_1    | [39m150616 22:50:25 [Note] Event Scheduler: Loaded 0 events
+[36mdb_1    | [39m150616 22:50:25 [Note] mysqld: ready for connections.
+[36mdb_1    | [39mVersion: '5.5.44'  socket: '/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.182. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mAH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.182. Set the 'ServerName' directive globally to suppress this message
+[32mapp_1   | [39mPHP Warning:  Module 'curl' already loaded in Unknown on line 0
+[32mapp_1   | [39m[Tue Jun 16 22:50:26.762861 2015] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[32mapp_1   | [39m[Tue Jun 16 22:50:26.762927 2015] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[33mredis_1 | [39m1:C 16 Jun 22:50:25.519 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+[33mredis_1 | [39m                _._                                                  
+[33mredis_1 | [39m           _.-``__ ''-._                                             
+[33mredis_1 | [39m      _.-``    `.  `_.  ''-._           Redis 3.0.2 (00000000/0) 64 bit
+[33mredis_1 | [39m  .-`` .-```.  ```\/    _.,_ ''-._                                   
+[33mredis_1 | [39m (    '      ,       .-`  | `,    )     Running in standalone mode
+[33mredis_1 | [39m |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+[33mredis_1 | [39m |    `-._   `._    /     _.-'    |     PID: 1
+[33mredis_1 | [39m  `-._    `-._  `-./  _.-'    _.-'                                   
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |           http://redis.io        
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[33mredis_1 | [39m |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+[33mredis_1 | [39m |    `-._`-._        _.-'_.-'    |                                  
+[33mredis_1 | [39m  `-._    `-._`-.__.-'_.-'    _.-'                                   
+[33mredis_1 | [39m      `-._    `-.__.-'    _.-'                                       
+[33mredis_1 | [39m          `-._        _.-'                                           
+[33mredis_1 | [39m              `-.__.-'                                               
+[33mredis_1 | 
+redis_1 | [39m1:M 16 Jun 22:50:25.521 # Server started, Redis version 3.0.2
+[33mredis_1 | [39m1:M 16 Jun 22:50:25.521 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[33mredis_1 | [39m1:M 16 Jun 22:50:25.521 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+[33mredis_1 | [39m1:M 16 Jun 22:50:25.521 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+[33mredis_1 | [39m1:M 16 Jun 22:50:25.521 * DB loaded from disk: 0.000 seconds
+[33mredis_1 | [39m1:M 16 Jun 22:50:25.521 * The server is now ready to accept connections on port 6379
+[36mdb_1    | [39m150616 22:51:40 [Warning] IP address '172.17.42.1' could not be resolved: Name or service not known
+

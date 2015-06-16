@@ -1,0 +1,10 @@
+pane	2	1	:~	1	:*	0	:/Users/switkowski	1	zsh	:
+pane	dotfiles	1	:vssh	1	:*	0	:/Users/switkowski/code/docker/test/metricso	0	zsh	:
+pane	dotfiles	1	:vssh	1	:*	1	:/Users/switkowski/code/Metricso	1	bash	:bash /usr/bin/vagrant ssh
+pane	dotfiles	2	:vim	0	: 	0	:/Users/switkowski/code/docker/test/metricso	1	vim	:vim docker-compose.yml
+pane	dotfiles	3	:vim	0	:-	0	:/Users/switkowski/.dotfiles	1	vim	:vim
+window	2	1	1	:*	e7cf,191x58,0,0,20
+window	dotfiles	1	1	:*	2495,191x56,0,0{95x56,0,0,17,95x56,96,0,23}
+window	dotfiles	2	0	: 	e3d0,191x56,0,0,21
+window	dotfiles	3	0	:-	63d7,191x56,0,0,18
+state	dotfiles	2

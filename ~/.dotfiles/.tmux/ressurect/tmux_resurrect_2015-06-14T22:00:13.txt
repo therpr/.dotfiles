@@ -1,0 +1,5 @@
+pane	dotfiles	1	:TMUX CONF	1	:*	0	:/Users/switkowski/.dotfiles	1	zsh	:
+pane	dotfiles	2	:VIMRC	0	:-	0	:/Users/switkowski/.dotfiles/.tmux	1	vim	:vim /Users/switkowski/.tmux/sheet.markdown
+window	dotfiles	1	1	:*	67b6,143x39,0,0,17
+window	dotfiles	2	0	:-	cf01,143x39,0,0,4
+state	dotfiles	dotfiles

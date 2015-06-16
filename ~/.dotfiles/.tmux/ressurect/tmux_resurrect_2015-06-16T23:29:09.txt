@@ -1,0 +1,13 @@
+pane	2	1	:~	1	:*	0	:/Users/switkowski	1	zsh	:
+pane	dotfiles	1	:..ricso/app/src	1	:*	0	:/Users/switkowski/code/docker/test/metricso/app/src	1	zsh	:
+pane	dotfiles	1	:..ricso/app/src	1	:*	1	:/Users/switkowski/code/Metricso	0	bash	:bash /usr/bin/vagrant ssh
+pane	dotfiles	1	:..ricso/app/src	1	:*	2	:/Users/switkowski/.dotfiles	0	vim	:vim /Users/switkowski/Library/Application Support/Sequel Pro/Data/Favorites.plist
+pane	dotfiles	2	:vim	0	: 	0	:/Users/switkowski/code/docker/test/metricso	1	vim	:vim docker-compose.yml
+pane	dotfiles	3	:vim	0	:-	0	:/Users/switkowski/code/docker/test/metricso	1	vim	:vim
+pane	dotfiles	4	:~/.dotfiles	0	: 	0	:/Users/switkowski/.dotfiles	1	zsh	:
+window	2	1	1	:*	e7cf,191x58,0,0,20
+window	dotfiles	1	1	:*	6741,191x56,0,0{95x56,0,0,17,95x56,96,0[95x28,96,0,23,95x27,96,29,26]}
+window	dotfiles	2	0	: 	e3d0,191x56,0,0,21
+window	dotfiles	3	0	:-	63d7,191x56,0,0,18
+window	dotfiles	4	0	: 	e3d4,191x56,0,0,25
+state	dotfiles	2
