@@ -16,6 +16,7 @@ alias vreload="vagrant reload"
 alias dc="docker-compose"
 alias b2d="sudo . ~/boot2docker.sh && reloadconf"
 alias dssh="docker_ssh"
+alias dip="docker inspect --format='{{.NetworkSettings.IPAddress}}'"
 
 # OS
 #

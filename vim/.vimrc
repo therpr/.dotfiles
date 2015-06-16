@@ -99,7 +99,8 @@ let g:syntastic_check_on_wq = 0
 
 " Vim-autoformat
 let g:formatterpath = ['js-beautify']
-au BufWrite * :Autoformat
+"au BufWrite * :Autoformat
+noremap <C-m> :Autoformat<CR>
 
 " Vim autosave
 let g:auto_save = 1  " enable AutoSave on Vim startup
@@ -142,7 +143,7 @@ let mapleader=","
 "Tagbar
 nmap <F8> :TagbarToggle<CR>
 
-"Emmet
+"Emmet C-E LEADER
 let g:user_emmet_leader_key='<C-E>'
 
 "Omnicomplete
@@ -168,4 +169,22 @@ let g:airline_theme='hybrid'
 let g:airline_powerline_fonts = 1
 let g:airline_theme='luna'
 
+" HUGE FILES
+" file is large from 10mb
+let g:LargeFile = 1024 * 1024 * 10
+augroup LargeFile 
+ autocmd BufReadPre * let f=getfsize(expand("<afile>")) | if f > g:LargeFile || f == -2 | call LargeFile() | endif
+augroup END
 
+function LargeFile()
+ " no syntax highlighting etc
+ set eventignore+=FileType
+ " save memory when other file is viewed
+ setlocal bufhidden=unload
+ " is read-only (write with :w new_filename)
+ setlocal buftype=nowrite
+ " no undo possible
+ setlocal undolevels=-1
+ " display message
+ autocmd VimEnter *  echo "The file is larger than " . (g:LargeFile / 1024 / 1024) . " MB, so some options are changed (see .vimrc for details)."
+endfunction
