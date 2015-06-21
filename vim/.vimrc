@@ -37,6 +37,9 @@ Plugin 'Chiel92/vim-autoformat'
 Plugin 'tpope/vim-surround'
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'moll/vim-node'
+Plugin 'digitaltoad/vim-jade'
+Plugin 'einars/js-beautify'
+Plugin 'maksimr/vim-jsbeautify'
 
 "PHP Plugins
 Plugin 'shawncplus/phpcomplete.vim'
@@ -47,6 +50,14 @@ Plugin 'ludovicchabant/vim-gutentags'
 
 " Auto brackets closing
 Plugin 'Raimondi/delimitMate'
+
+" vim-snipmate
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+
+" Optional
+Plugin 'honza/vim-snippets'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -157,34 +168,27 @@ noremap <Leader>u :call PhpInsertUse()<CR>
 set noswapfile
 set number
 set relativenumber
-let g:solarized_termcolors=256
 set t_Co=256
 set background=dark
-" colorscheme solarized
 
-" Styles.
-color jellybeans
+color atom-dark-256
 let g:airline_theme='hybrid'
 " Powerline
 let g:airline_powerline_fonts = 1
 let g:airline_theme='luna'
 
-" HUGE FILES
-" file is large from 10mb
-let g:LargeFile = 1024 * 1024 * 10
-augroup LargeFile 
- autocmd BufReadPre * let f=getfsize(expand("<afile>")) | if f > g:LargeFile || f == -2 | call LargeFile() | endif
-augroup END
+" auto comma - auto semicolo
+autocmd FileType javascript, css, YOUR_LANG nnoremap < silent > < Leader > ;: call cosco# commaOrSemiColon() < CR >
+autocmd FileType javascript, css, YOUR_LANG inoremap < silent > < Leader > ; < c - o > : call cosco# commaOrSemiColon() < CR >
 
-function LargeFile()
- " no syntax highlighting etc
- set eventignore+=FileType
- " save memory when other file is viewed
- setlocal bufhidden=unload
- " is read-only (write with :w new_filename)
- setlocal buftype=nowrite
- " no undo possible
- setlocal undolevels=-1
- " display message
- autocmd VimEnter *  echo "The file is larger than " . (g:LargeFile / 1024 / 1024) . " MB, so some options are changed (see .vimrc for details)."
-endfunction
+" jsbeautify
+map < c - f > : call JsBeautify() < cr >
+" or
+autocmd FileType javascript noremap < buffer > < c - f > : call JsBeautify() < cr >
+" for html
+autocmd FileType html noremap < buffer > < c - f > : call HtmlBeautify() < cr >
+" for css or scss
+autocmd FileType css noremap < buffer > < c - f > : call CSSBeautify() < cr >
+
+" vim-node-dict
+au FileType javascript set dictionary += $HOME / .vim / dict / node.dict
