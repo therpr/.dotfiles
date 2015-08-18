@@ -13,10 +13,12 @@ alias vssh="vagrant ssh"
 alias vreload="vagrant reload"
 
 # Docker
+alias d="dinghy --help"
+alias dup="dinghy up"
 alias dc="docker-compose"
-alias b2d="sudo . ~/boot2docker.sh && reloadconf"
 alias dssh="docker_ssh"
 alias dip="docker inspect --format='{{.NetworkSettings.IPAddress}}'"
+alias dsync="dinghy_sync"
 
 # OS
 #

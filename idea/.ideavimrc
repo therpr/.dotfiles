@@ -34,7 +34,11 @@ vmap < <gv
 :map <space>fi :action ForceStepInto<CR>
 :map <space>R :action RunToCursor<CR>
 :map <space>s :action ToggleLineBreakpoint<CR>
-:map <C-f> :action FindModal<CR> 
-:map <C-r> :action Replace<CR>
+:map <C-f> :action FindModal<CR>
+":map <C-r> :action Replace<CR>
 :map <C-n> :action EditorToggleShowLineNumbers<CR>
 :map <C-g> :action GotoAction<CR>
+:map <C-e> :action Switcher<CR>
+
+:map <C-a>\ :action SplitVertically<CR>
+:map \x :action QuickEvaluateExpression<CR>

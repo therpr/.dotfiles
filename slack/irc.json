@@ -1,0 +1,17 @@
+  {
+    "nickname": "slackirc",
+    "server": "irc.freenode.net",
+    "token": "xoxb-6510206102-HbvYyvwranaA94CKdczGDtVH",
+    "autoSendCommands": [
+      ["PRIVMSG", "NickServ", "SET HIDEMAIL ON"],
+      ["PRIVMSG", "NickServ", "IDENTIFY slackirc advoc47324"]
+    ],
+    "channelMapping": {
+      "docker": "#docker",
+      "docker-compose": "#docker-some2"
+    },
+    "ircOptions": {
+      "floodProtection": false, 
+      "floodProtectionDelay": 1000 
+    }
+  }

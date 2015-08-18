@@ -7,3 +7,7 @@ function mk() {
 function docker_ssh(){
     docker exec -it "$1" bash
 }
+
+function dinghy_sync(){
+    fsevents_to_vm start .
+}

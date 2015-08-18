@@ -1,2 +1,5 @@
 /Users/switkowski/.dotfiles/.tmux	30
 /Users/switkowski/.vim/bundle/vim-airline/autoload/airline/themes	40
+/Users/switkowski/code/docker/metricso	40
+/Users/switkowski/code/metricso/vagdoc/code	40
+/Users/switkowski/code/Metricso/vagdoc/code/app/src	40
