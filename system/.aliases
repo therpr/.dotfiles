@@ -6,7 +6,7 @@ alias gs='git status'
 alias gc='git commit'
 alias gpush='git push'
 alias gpull='git pull'
-alias cdm="cd ~/Code/Metricso"
+alias cdm="cd ~/code/metricso"
 # Vagrant
 alias vup="vagrant up"
 alias vssh="vagrant ssh"
